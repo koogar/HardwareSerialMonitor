@@ -1,2 +1,2 @@
 # HardwareSerialMonitor
-PC Performance Stats Serial Monitor
+Gnat Stats PC Performance Stats Serial Monitor Windows Client
