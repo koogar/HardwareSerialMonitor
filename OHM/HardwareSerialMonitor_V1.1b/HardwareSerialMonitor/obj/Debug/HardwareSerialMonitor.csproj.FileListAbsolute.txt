@@ -1,0 +1,78 @@
+C:\Users\colinconway\documents\visual studio 2015\Projects\HardwareSerialMonitor\HardwareSerialMonitor\obj\Debug\HardwareSerialMonitor.Properties.Resources.resources
+C:\Users\colinconway\documents\visual studio 2015\Projects\HardwareSerialMonitor\HardwareSerialMonitor\obj\Debug\HardwareSerialMonitor.csproj.GenerateResource.Cache
+C:\Users\colinconway\Documents\Visual Studio 2015\Projects\HardwareSerialMonitor\HardwareSerialMonitor\bin\Debug\HardwareSerialMonitor.exe.config
+C:\Users\colinconway\Documents\Visual Studio 2015\Projects\HardwareSerialMonitor\HardwareSerialMonitor\obj\Debug\HardwareSerialMonitor.csprojResolveAssemblyReference.cache
+C:\Users\colinconway\Documents\Visual Studio 2015\Projects\HardwareSerialMonitor\HardwareSerialMonitor\bin\Debug\HardwareSerialMonitor.exe
+C:\Users\colinconway\Documents\Visual Studio 2015\Projects\HardwareSerialMonitor\HardwareSerialMonitor\bin\Debug\HardwareSerialMonitor.pdb
+C:\Users\colinconway\Documents\Visual Studio 2015\Projects\HardwareSerialMonitor\HardwareSerialMonitor\bin\Debug\INIFileParser.dll
+C:\Users\colinconway\Documents\Visual Studio 2015\Projects\HardwareSerialMonitor\HardwareSerialMonitor\bin\Debug\OpenHardwareMonitorLib.dll
+C:\Users\colinconway\Documents\Visual Studio 2015\Projects\HardwareSerialMonitor\HardwareSerialMonitor\bin\Debug\INIFileParser.xml
+C:\Users\colinconway\Documents\Visual Studio 2015\Projects\HardwareSerialMonitor\HardwareSerialMonitor\obj\Debug\HardwareSerialMonitor.AboutBox1.resources
+C:\Users\colinconway\Documents\Visual Studio 2015\Projects\HardwareSerialMonitor\HardwareSerialMonitor\obj\Debug\HardwareSerialMonitor.exe
+C:\Users\colinconway\Documents\Visual Studio 2015\Projects\HardwareSerialMonitor\HardwareSerialMonitor\obj\Debug\HardwareSerialMonitor.pdb
+D:\Tallman_Labs\GnatSats_SerialMonitor\Colin_Gnat-App\03.11.2016\HardwareSerialMonitor\HardwareSerialMonitor\bin\Debug\HardwareSerialMonitor.exe.config
+D:\Tallman_Labs\GnatSats_SerialMonitor\Colin_Gnat-App\03.11.2016\HardwareSerialMonitor\HardwareSerialMonitor\bin\Debug\HardwareSerialMonitor.exe
+D:\Tallman_Labs\GnatSats_SerialMonitor\Colin_Gnat-App\03.11.2016\HardwareSerialMonitor\HardwareSerialMonitor\bin\Debug\HardwareSerialMonitor.pdb
+D:\Tallman_Labs\GnatSats_SerialMonitor\Colin_Gnat-App\03.11.2016\HardwareSerialMonitor\HardwareSerialMonitor\bin\Debug\INIFileParser.dll
+D:\Tallman_Labs\GnatSats_SerialMonitor\Colin_Gnat-App\03.11.2016\HardwareSerialMonitor\HardwareSerialMonitor\bin\Debug\OpenHardwareMonitorLib.dll
+D:\Tallman_Labs\GnatSats_SerialMonitor\Colin_Gnat-App\03.11.2016\HardwareSerialMonitor\HardwareSerialMonitor\bin\Debug\INIFileParser.xml
+D:\Tallman_Labs\GnatSats_SerialMonitor\Colin_Gnat-App\03.11.2016\HardwareSerialMonitor\HardwareSerialMonitor\obj\Debug\HardwareSerialMonitor.csprojResolveAssemblyReference.cache
+D:\Tallman_Labs\GnatSats_SerialMonitor\Colin_Gnat-App\03.11.2016\HardwareSerialMonitor\HardwareSerialMonitor\obj\Debug\HardwareSerialMonitor.AboutBox1.resources
+D:\Tallman_Labs\GnatSats_SerialMonitor\Colin_Gnat-App\03.11.2016\HardwareSerialMonitor\HardwareSerialMonitor\obj\Debug\HardwareSerialMonitor.Properties.Resources.resources
+D:\Tallman_Labs\GnatSats_SerialMonitor\Colin_Gnat-App\03.11.2016\HardwareSerialMonitor\HardwareSerialMonitor\obj\Debug\HardwareSerialMonitor.csproj.GenerateResource.Cache
+D:\Tallman_Labs\GnatSats_SerialMonitor\Colin_Gnat-App\03.11.2016\HardwareSerialMonitor\HardwareSerialMonitor\obj\Debug\HardwareSerialMonitor.exe
+D:\Tallman_Labs\GnatSats_SerialMonitor\Colin_Gnat-App\03.11.2016\HardwareSerialMonitor\HardwareSerialMonitor\obj\Debug\HardwareSerialMonitor.pdb
+D:\Tallman_Labs\GnatSats_SerialMonitor\Working Packages\Current Versions\GnatStats App\APP_03.11.2016_AUTO\Source Code\HardwareSerialMonitor\HardwareSerialMonitor\bin\Debug\HardwareSerialMonitor.exe.config
+D:\Tallman_Labs\GnatSats_SerialMonitor\Working Packages\Current Versions\GnatStats App\APP_03.11.2016_AUTO\Source Code\HardwareSerialMonitor\HardwareSerialMonitor\bin\Debug\HardwareSerialMonitor.exe
+D:\Tallman_Labs\GnatSats_SerialMonitor\Working Packages\Current Versions\GnatStats App\APP_03.11.2016_AUTO\Source Code\HardwareSerialMonitor\HardwareSerialMonitor\bin\Debug\HardwareSerialMonitor.pdb
+D:\Tallman_Labs\GnatSats_SerialMonitor\Working Packages\Current Versions\GnatStats App\APP_03.11.2016_AUTO\Source Code\HardwareSerialMonitor\HardwareSerialMonitor\bin\Debug\INIFileParser.dll
+D:\Tallman_Labs\GnatSats_SerialMonitor\Working Packages\Current Versions\GnatStats App\APP_03.11.2016_AUTO\Source Code\HardwareSerialMonitor\HardwareSerialMonitor\bin\Debug\OpenHardwareMonitorLib.dll
+D:\Tallman_Labs\GnatSats_SerialMonitor\Working Packages\Current Versions\GnatStats App\APP_03.11.2016_AUTO\Source Code\HardwareSerialMonitor\HardwareSerialMonitor\bin\Debug\INIFileParser.xml
+D:\Tallman_Labs\GnatSats_SerialMonitor\Working Packages\Current Versions\GnatStats App\APP_03.11.2016_AUTO\Source Code\HardwareSerialMonitor\HardwareSerialMonitor\obj\Debug\HardwareSerialMonitor.csprojResolveAssemblyReference.cache
+D:\Tallman_Labs\GnatSats_SerialMonitor\Working Packages\Current Versions\GnatStats App\APP_03.11.2016_AUTO\Source Code\HardwareSerialMonitor\HardwareSerialMonitor\obj\Debug\HardwareSerialMonitor.AboutBox1.resources
+D:\Tallman_Labs\GnatSats_SerialMonitor\Working Packages\Current Versions\GnatStats App\APP_03.11.2016_AUTO\Source Code\HardwareSerialMonitor\HardwareSerialMonitor\obj\Debug\HardwareSerialMonitor.Properties.Resources.resources
+D:\Tallman_Labs\GnatSats_SerialMonitor\Working Packages\Current Versions\GnatStats App\APP_03.11.2016_AUTO\Source Code\HardwareSerialMonitor\HardwareSerialMonitor\obj\Debug\HardwareSerialMonitor.csproj.GenerateResource.Cache
+D:\Tallman_Labs\GnatSats_SerialMonitor\Working Packages\Current Versions\GnatStats App\APP_03.11.2016_AUTO\Source Code\HardwareSerialMonitor\HardwareSerialMonitor\obj\Debug\HardwareSerialMonitor.exe
+D:\Tallman_Labs\GnatSats_SerialMonitor\Working Packages\Current Versions\GnatStats App\APP_03.11.2016_AUTO\Source Code\HardwareSerialMonitor\HardwareSerialMonitor\obj\Debug\HardwareSerialMonitor.pdb
+F:\Visual Studio 2017\Projects\HardwareSerialMonitorV1\HardwareSerialMonitor\HardwareSerialMonitor\bin\Debug\HardwareSerialMonitor.exe.config
+F:\Visual Studio 2017\Projects\HardwareSerialMonitorV1\HardwareSerialMonitor\HardwareSerialMonitor\bin\Debug\HardwareSerialMonitor.exe
+F:\Visual Studio 2017\Projects\HardwareSerialMonitorV1\HardwareSerialMonitor\HardwareSerialMonitor\bin\Debug\HardwareSerialMonitor.pdb
+F:\Visual Studio 2017\Projects\HardwareSerialMonitorV1\HardwareSerialMonitor\HardwareSerialMonitor\bin\Debug\INIFileParser.dll
+F:\Visual Studio 2017\Projects\HardwareSerialMonitorV1\HardwareSerialMonitor\HardwareSerialMonitor\bin\Debug\OpenHardwareMonitorLib.dll
+F:\Visual Studio 2017\Projects\HardwareSerialMonitorV1\HardwareSerialMonitor\HardwareSerialMonitor\bin\Debug\INIFileParser.xml
+F:\Visual Studio 2017\Projects\HardwareSerialMonitorV1\HardwareSerialMonitor\HardwareSerialMonitor\obj\Debug\HardwareSerialMonitor.csprojResolveAssemblyReference.cache
+F:\Visual Studio 2017\Projects\HardwareSerialMonitorV1\HardwareSerialMonitor\HardwareSerialMonitor\obj\Debug\HardwareSerialMonitor.AboutBox1.resources
+F:\Visual Studio 2017\Projects\HardwareSerialMonitorV1\HardwareSerialMonitor\HardwareSerialMonitor\obj\Debug\HardwareSerialMonitor.Properties.Resources.resources
+F:\Visual Studio 2017\Projects\HardwareSerialMonitorV1\HardwareSerialMonitor\HardwareSerialMonitor\obj\Debug\HardwareSerialMonitor.csproj.GenerateResource.cache
+F:\Visual Studio 2017\Projects\HardwareSerialMonitorV1\HardwareSerialMonitor\HardwareSerialMonitor\obj\Debug\HardwareSerialMonitor.csproj.CoreCompileInputs.cache
+F:\Visual Studio 2017\Projects\HardwareSerialMonitorV1\HardwareSerialMonitor\HardwareSerialMonitor\obj\Debug\HardwareSerialMonitor.csproj.CopyComplete
+F:\Visual Studio 2017\Projects\HardwareSerialMonitorV1\HardwareSerialMonitor\HardwareSerialMonitor\obj\Debug\HardwareSerialMonitor.exe
+F:\Visual Studio 2017\Projects\HardwareSerialMonitorV1\HardwareSerialMonitor\HardwareSerialMonitor\obj\Debug\HardwareSerialMonitor.pdb
+F:\visual Studio 2017\Projects\HardwareSerialMonitor_V1.2\HardwareSerialMonitor\HardwareSerialMonitor\bin\Debug\HardwareSerialMonitor.exe.config
+F:\visual Studio 2017\Projects\HardwareSerialMonitor_V1.2\HardwareSerialMonitor\HardwareSerialMonitor\bin\Debug\HardwareSerialMonitor.exe
+F:\visual Studio 2017\Projects\HardwareSerialMonitor_V1.2\HardwareSerialMonitor\HardwareSerialMonitor\bin\Debug\HardwareSerialMonitor.pdb
+F:\visual Studio 2017\Projects\HardwareSerialMonitor_V1.2\HardwareSerialMonitor\HardwareSerialMonitor\bin\Debug\INIFileParser.dll
+F:\visual Studio 2017\Projects\HardwareSerialMonitor_V1.2\HardwareSerialMonitor\HardwareSerialMonitor\bin\Debug\OpenHardwareMonitorLib.dll
+F:\visual Studio 2017\Projects\HardwareSerialMonitor_V1.2\HardwareSerialMonitor\HardwareSerialMonitor\bin\Debug\INIFileParser.xml
+F:\visual Studio 2017\Projects\HardwareSerialMonitor_V1.2\HardwareSerialMonitor\HardwareSerialMonitor\obj\Debug\HardwareSerialMonitor.csprojResolveAssemblyReference.cache
+F:\visual Studio 2017\Projects\HardwareSerialMonitor_V1.2\HardwareSerialMonitor\HardwareSerialMonitor\obj\Debug\HardwareSerialMonitor.AboutBox1.resources
+F:\visual Studio 2017\Projects\HardwareSerialMonitor_V1.2\HardwareSerialMonitor\HardwareSerialMonitor\obj\Debug\HardwareSerialMonitor.Properties.Resources.resources
+F:\visual Studio 2017\Projects\HardwareSerialMonitor_V1.2\HardwareSerialMonitor\HardwareSerialMonitor\obj\Debug\HardwareSerialMonitor.csproj.GenerateResource.cache
+F:\visual Studio 2017\Projects\HardwareSerialMonitor_V1.2\HardwareSerialMonitor\HardwareSerialMonitor\obj\Debug\HardwareSerialMonitor.csproj.CoreCompileInputs.cache
+F:\visual Studio 2017\Projects\HardwareSerialMonitor_V1.2\HardwareSerialMonitor\HardwareSerialMonitor\obj\Debug\HardwareSerialMonitor.csproj.CopyComplete
+F:\visual Studio 2017\Projects\HardwareSerialMonitor_V1.2\HardwareSerialMonitor\HardwareSerialMonitor\obj\Debug\HardwareSerialMonitor.exe
+F:\visual Studio 2017\Projects\HardwareSerialMonitor_V1.2\HardwareSerialMonitor\HardwareSerialMonitor\obj\Debug\HardwareSerialMonitor.pdb
+D:\Tallman_Labs\GnatSats_SerialMonitor\Hardware Serial Monitor V2\HardwareSerialMonitor_V1.1-20180926T105905Z-001\HardwareSerialMonitor_V1.1\HardwareSerialMonitor\HardwareSerialMonitor\bin\Debug\HardwareSerialMonitor.exe.config
+D:\Tallman_Labs\GnatSats_SerialMonitor\Hardware Serial Monitor V2\HardwareSerialMonitor_V1.1-20180926T105905Z-001\HardwareSerialMonitor_V1.1\HardwareSerialMonitor\HardwareSerialMonitor\bin\Debug\HardwareSerialMonitor.exe
+D:\Tallman_Labs\GnatSats_SerialMonitor\Hardware Serial Monitor V2\HardwareSerialMonitor_V1.1-20180926T105905Z-001\HardwareSerialMonitor_V1.1\HardwareSerialMonitor\HardwareSerialMonitor\bin\Debug\HardwareSerialMonitor.pdb
+D:\Tallman_Labs\GnatSats_SerialMonitor\Hardware Serial Monitor V2\HardwareSerialMonitor_V1.1-20180926T105905Z-001\HardwareSerialMonitor_V1.1\HardwareSerialMonitor\HardwareSerialMonitor\bin\Debug\INIFileParser.dll
+D:\Tallman_Labs\GnatSats_SerialMonitor\Hardware Serial Monitor V2\HardwareSerialMonitor_V1.1-20180926T105905Z-001\HardwareSerialMonitor_V1.1\HardwareSerialMonitor\HardwareSerialMonitor\bin\Debug\OpenHardwareMonitorLib.dll
+D:\Tallman_Labs\GnatSats_SerialMonitor\Hardware Serial Monitor V2\HardwareSerialMonitor_V1.1-20180926T105905Z-001\HardwareSerialMonitor_V1.1\HardwareSerialMonitor\HardwareSerialMonitor\bin\Debug\INIFileParser.xml
+D:\Tallman_Labs\GnatSats_SerialMonitor\Hardware Serial Monitor V2\HardwareSerialMonitor_V1.1-20180926T105905Z-001\HardwareSerialMonitor_V1.1\HardwareSerialMonitor\HardwareSerialMonitor\obj\Debug\HardwareSerialMonitor.csprojAssemblyReference.cache
+D:\Tallman_Labs\GnatSats_SerialMonitor\Hardware Serial Monitor V2\HardwareSerialMonitor_V1.1-20180926T105905Z-001\HardwareSerialMonitor_V1.1\HardwareSerialMonitor\HardwareSerialMonitor\obj\Debug\HardwareSerialMonitor.AboutBox1.resources
+D:\Tallman_Labs\GnatSats_SerialMonitor\Hardware Serial Monitor V2\HardwareSerialMonitor_V1.1-20180926T105905Z-001\HardwareSerialMonitor_V1.1\HardwareSerialMonitor\HardwareSerialMonitor\obj\Debug\HardwareSerialMonitor.Properties.Resources.resources
+D:\Tallman_Labs\GnatSats_SerialMonitor\Hardware Serial Monitor V2\HardwareSerialMonitor_V1.1-20180926T105905Z-001\HardwareSerialMonitor_V1.1\HardwareSerialMonitor\HardwareSerialMonitor\obj\Debug\HardwareSerialMonitor.csproj.GenerateResource.cache
+D:\Tallman_Labs\GnatSats_SerialMonitor\Hardware Serial Monitor V2\HardwareSerialMonitor_V1.1-20180926T105905Z-001\HardwareSerialMonitor_V1.1\HardwareSerialMonitor\HardwareSerialMonitor\obj\Debug\HardwareSerialMonitor.csproj.CoreCompileInputs.cache
+D:\Tallman_Labs\GnatSats_SerialMonitor\Hardware Serial Monitor V2\HardwareSerialMonitor_V1.1-20180926T105905Z-001\HardwareSerialMonitor_V1.1\HardwareSerialMonitor\HardwareSerialMonitor\obj\Debug\HardwareSerialMonitor.csproj.CopyComplete
+D:\Tallman_Labs\GnatSats_SerialMonitor\Hardware Serial Monitor V2\HardwareSerialMonitor_V1.1-20180926T105905Z-001\HardwareSerialMonitor_V1.1\HardwareSerialMonitor\HardwareSerialMonitor\obj\Debug\HardwareSerialMonitor.exe
+D:\Tallman_Labs\GnatSats_SerialMonitor\Hardware Serial Monitor V2\HardwareSerialMonitor_V1.1-20180926T105905Z-001\HardwareSerialMonitor_V1.1\HardwareSerialMonitor\HardwareSerialMonitor\obj\Debug\HardwareSerialMonitor.pdb
