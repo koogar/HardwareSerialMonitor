@@ -66,9 +66,20 @@ namespace HardwareSerialMonitor
             ApplicationIcon.BalloonTipText = "Hardware LCD Monitor";
             ApplicationIcon.BalloonTipTitle = "Hardware LCD Monitor";
 
+            //this.WindowState = FormWindowState.Minimized;  //start minimized
+            //this.ShowInTaskbar = false; // dont show icon on the taskbar
+            //this.Hide(); //Hide
+	    
+	    //----------Thanks MaD[erer] Hide Form1 When ALT+TAB-------------
+
             this.WindowState = FormWindowState.Minimized;  //start minimized
             this.ShowInTaskbar = false; // dont show icon on the taskbar
+            this.FormBorderStyle = FormBorderStyle.FixedToolWindow;
+            this.ControlBox = false;
+            this.Opacity = 0;
             this.Hide(); //Hide
+
+            //---------------------------------------------------------------
             
 
 
