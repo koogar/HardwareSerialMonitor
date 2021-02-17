@@ -354,7 +354,7 @@ namespace HardwareSerialMonitor
             string gpuShaderClock = "";
             string gpuMemTotal    = "";       //added RSH 30/11/2020  see NvidiaGPU.cs "memoryAvail = new Sensor("GPU Memory Total", 3, SensorType.SmallData, this, settings);"
             string gpuFanSpeedLoad   = "";    //added RSH 30/11/2020  see NvidiaGPU.cs "control = new Sensor("GPU Fan", 0, SensorType.Control, this, settings);"
-            string gpuFanSpeedRPM = "";      //Does not work  //added RSH 30/11/2020  see NvidiaGPU.cs  "private readonly Sensor fan;"
+            string gpuFanSpeedRPM = "";       //added RSH 30/11/2020  see NvidiaGPU.cs  "private readonly Sensor fan;"
             string gpuMemLoad = "";           //added RSH 4/12/2020   see NvidiaGPU.cs  "memoryLoad = new Sensor("GPU Memory", 4, SensorType.Load, this, settings);"
             string gpuPower   =  "";          //added RSH 4/12/2020   see NvidiaGPU.cs  "power = new Sensor("GPU Power", 0, SensorType.Power, this, settings);"
             string gpuMemUsed = "";           //added RSH 4/12/2020   see NvidiaGPU.cs  "memoryUsed = new Sensor("GPU Memory Used", 2, SensorType.SmallData, this, settings);"
