@@ -54,7 +54,7 @@
     <ApplicationManifest>app.manifest</ApplicationManifest>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>TrayIcon1.ico</ApplicationIcon>
+    <ApplicationIcon>HardwareSerialMonitor.ico</ApplicationIcon>
   </PropertyGroup>
   <PropertyGroup>
     <StartupObject>HardwareSerialMonitor.Program</StartupObject>
@@ -158,6 +158,8 @@
     <None Include="Resources\About Image Side Tacho.PNG" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="HardwareSerialMonitor.ico" />
+    <Content Include="TrayIcon.ico" />
     <Content Include="TrayIcon1.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
