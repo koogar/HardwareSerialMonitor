@@ -1,0 +1,15 @@
+D:\Downloads\HardwareSerialMonitor_v1.3d\HardwareSerialMonitor\bin\Release\HardwareSerialMonitor.exe.config
+D:\Downloads\HardwareSerialMonitor_v1.3d\HardwareSerialMonitor\bin\Release\HardwareSerialMonitor.exe
+D:\Downloads\HardwareSerialMonitor_v1.3d\HardwareSerialMonitor\bin\Release\HardwareSerialMonitor.pdb
+D:\Downloads\HardwareSerialMonitor_v1.3d\HardwareSerialMonitor\bin\Release\INIFileParser.dll
+D:\Downloads\HardwareSerialMonitor_v1.3d\HardwareSerialMonitor\bin\Release\OpenHardwareMonitorLib.dll
+D:\Downloads\HardwareSerialMonitor_v1.3d\HardwareSerialMonitor\bin\Release\INIFileParser.xml
+D:\Downloads\HardwareSerialMonitor_v1.3d\HardwareSerialMonitor\obj\Release\HardwareSerialMonitor.csprojAssemblyReference.cache
+D:\Downloads\HardwareSerialMonitor_v1.3d\HardwareSerialMonitor\obj\Release\HardwareSerialMonitor.AboutBox1.resources
+D:\Downloads\HardwareSerialMonitor_v1.3d\HardwareSerialMonitor\obj\Release\HardwareSerialMonitor.Form1.resources
+D:\Downloads\HardwareSerialMonitor_v1.3d\HardwareSerialMonitor\obj\Release\HardwareSerialMonitor.Properties.Resources.resources
+D:\Downloads\HardwareSerialMonitor_v1.3d\HardwareSerialMonitor\obj\Release\HardwareSerialMonitor.csproj.GenerateResource.cache
+D:\Downloads\HardwareSerialMonitor_v1.3d\HardwareSerialMonitor\obj\Release\HardwareSerialMonitor.csproj.CoreCompileInputs.cache
+D:\Downloads\HardwareSerialMonitor_v1.3d\HardwareSerialMonitor\obj\Release\HardwareSerialMonitor.csproj.CopyComplete
+D:\Downloads\HardwareSerialMonitor_v1.3d\HardwareSerialMonitor\obj\Release\HardwareSerialMonitor.exe
+D:\Downloads\HardwareSerialMonitor_v1.3d\HardwareSerialMonitor\obj\Release\HardwareSerialMonitor.pdb

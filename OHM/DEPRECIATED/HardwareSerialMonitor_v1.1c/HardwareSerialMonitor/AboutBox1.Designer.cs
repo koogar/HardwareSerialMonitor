@@ -90,9 +90,8 @@
             this.labelProductName.Name = "labelProductName";
             this.labelProductName.Size = new System.Drawing.Size(316, 21);
             this.labelProductName.TabIndex = 19;
-            this.labelProductName.Text = "Gnat-Stats Hardware Serial Monitor V1.3d .NET 4.6.2";
+            this.labelProductName.Text = "Gnat-Stats Hardware Serial Monitor V1.1c .NET 4.6.2";
             this.labelProductName.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.labelProductName.Click += new System.EventHandler(this.labelProductName_Click);
             // 
             // labelVersion
             // 

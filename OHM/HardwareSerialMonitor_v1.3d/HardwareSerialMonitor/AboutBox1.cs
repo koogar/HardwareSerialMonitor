@@ -124,5 +124,10 @@ namespace HardwareSerialMonitor
         {
 
         }
+
+        private void labelProductName_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
