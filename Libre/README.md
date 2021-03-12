@@ -12,7 +12,6 @@ Following fields are supported for custom format
 - CpuName
 - CpuTemperature
 - CpuLoad
-- CpuFanSpeedLoad
 - CpuClock
 - GpuName
 - GpuTemperature
