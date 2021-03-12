@@ -5,7 +5,7 @@ Copyright (C) 2021  Vinod Mishra
 A tiny server that uses LibreHardwareMonitor to send data to a serial port (for use with Arduino). Planning to add more features soon.
 
 This project is licensed under GPL v2.
-LibreHardwareMonitory library is licensed under Mozilla Public License 2.0.
+LibreHardwareMonitor library is licensed under Mozilla Public License 2.0.
 
 
 Following fields are supported for custom format
