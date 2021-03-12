@@ -30,8 +30,7 @@ Following fields are supported for custom format
 - RamLoad
 - RamUsed
 - RamAvailable
-- EthernetUploadSpeed
-- EthernetDownloadSpeed
+
 
 ## Installation
 This is a simple console application and has built in support to be run as a Windows Service as well which would be the easiest way to get it working.
@@ -51,7 +50,7 @@ Run "DeleteService.bat" as an administrator
 - Linux support 
 
 #  Note
-This was primarily written to use LibreHardwareMonitor to output stats to a serial port for use with Gnat Stats written by Rupert Hirst and Colin Conway.
+This was primarily written to use OpenHardwareMonitor to output stats to a serial port for use with Gnat Stats written by Rupert Hirst and Colin Conway.
 https://hackaday.io/project/19018-gnat-stats-tiny-oled-pc-performance-monitor
 
 However, the windows application that comes with it uses .net framework along with  OpenHardwareMonitor which was forked by LibreHardwareMonitor.
