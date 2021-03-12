@@ -1,13 +1,12 @@
-# Wee Hardware Stat Server
 
+# Wee Hardware Stat Server (Gnat-Stats & Phat-Stats Compatible)
+Copyright (C) 2021  Vinod Mishra
+-----------------------------------
 A tiny server that uses LibreHardwareMonitor to send data to a serial port (for use with Arduino). Planning to add more features soon.
 
 This project is licensed under GPL v2.
 LibreHardwareMonitory library is licensed under Mozilla Public License 2.0.
 
-This application supports sends hardware stats in a string output to a configured serial port in appsettings file. 
-The string format can be changed from the default of Key1:Value1#Key2:Value2#|
-to any custom format by changing appsettings file. 
 
 Following fields are supported for custom format
 - CpuName
@@ -44,6 +43,12 @@ Run 'InstallService.bat' as an administrator.
 
 ## Uninstallation
 Run "DeleteService.bat" as an administrator
+
+Warning!!!:
+ 
+      You Must have a fixed folder location before you install the service. 
+      If you want to move the install folder you have to delete the service first, then move the folder.
+      You can then install service again from the new folder location.
 
 ## Future plan
 - Release the counterpart to this for Aruduino that uses Json to communicate rather than a string
