@@ -1,5 +1,8 @@
 
-  GnatStats / PhatStats PC Performance Monitor / HardwareSerialMonitor -  Rupert Hirst & Colin Conway © 2016-2018
+  GnatStats / PhatStats PC Performance Monitor / HardwareSerialMonitor Windows Client  
+  
+  Rupert Hirst & Colin Conway © 2016-2021
+  
   http://tallmanlabs.com  & http://runawaybrainz.blogspot.com/
 
   Licence
