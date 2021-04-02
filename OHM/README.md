@@ -1,5 +1,7 @@
 # HardwareSerialMonitor
 Gnat Stats PC Harware Performance Monitor Windows Client
+
+NOTE: HardwareSerialMonitor needs to be "run as Admin" to get all the stats
   
   GNATSTATS OLED PC Performance Monitor / HardwareSerialMonitor -  Rupert Hirst & Colin Conway © 2016-2018
   http://tallmanlabs.com  & http://runawaybrainz.blogspot.com/
