@@ -47,9 +47,9 @@ Conditions Tab:
 
 Settings Tab:
 
-    Enable, Tick : "Allow task to be run on demand"
+    To Enable, Tick : "Allow task to be run on demand"
     
-    Disable, Tick: "Stop the task if it runs longer than"
+    To Disable, Tick: "Stop the task if it runs longer than"
 
 ---------------------------------------------------------------------------------------------------------
 
