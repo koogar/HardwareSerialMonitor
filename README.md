@@ -26,19 +26,31 @@ Tick: Run with highest privileges
 
 Select: Configure for: Windows 10
 
+
 Triggers Tab> New:
+
 Begin the task, Select: At log on
+
 Tick: Specific User:
 
+
 Actions Tab> New:
+
 Action, Select: "Start a program"
+
 Program/script: > Browse the HardwareSerialMonitor.exe
 
+
 Conditions Tab:
+
 [optional] Disable "Start the task only if the computer is on AC power"
 
+
 Settings Tab:
+
 Enable, Tick : "Allow task to be run on demand"
+
+
 Disable, Tick: "Stop the task if it runs longer than"
 
 ---------------------------------------------------------------------------------------------------------
