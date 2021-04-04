@@ -57,7 +57,7 @@ Licence
 -------
 GPL v2
 
-Gnat-Stats, Phat-Stats & Hardware Serial Monitor Copyright (C) 2016 Colin Conway, Rupert Hirst and contributors
+µVolume, Gnat-Stats, Phat-Stats & Hardware Serial Monitor Copyright (C) 2016 Colin Conway, Rupert Hirst and contributors
 
 This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
 
