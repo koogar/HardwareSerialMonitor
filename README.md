@@ -6,8 +6,8 @@
   http://tallmanlabs.com  & http://runawaybrainz.blogspot.com/
   
 ---------------------------------------------------------------------------------------------------------
-Autostart HardwareSerialMonitor
-----------------------------------
+Autostart HardwareSerialMonitor.exe
+-----------------------------------
 Locate Hardware Monitor executable> Right-Click> Properties> Compatibility> Run this program as Admin [X]
 
 Enable auto-start on system log-in
