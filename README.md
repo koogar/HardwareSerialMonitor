@@ -21,9 +21,9 @@ General Tab:
 
     Name: Whatever you like
 
-    Tick: Run only when user is logged on
+    [X]: Run only when user is logged on
 
-    Tick: Run with highest privileges
+    [X]: Run with highest privileges
 
     Select: Configure for: Windows 10
 
@@ -32,7 +32,7 @@ Triggers Tab> New:
 
     Begin the task, Select: At log on
 
-    Tick: Specific User:
+    [X]: Specific User:
 
 Actions Tab> New:
 
@@ -47,9 +47,9 @@ Conditions Tab:
 
 Settings Tab:
 
-    To Enable, Tick : "Allow task to be run on demand"
+    To Enable,  [X] : "Allow task to be run on demand"
     
-    To Disable, Tick: "Stop the task if it runs longer than"
+    To Disable, [X] : "Stop the task if it runs longer than"
 
 ---------------------------------------------------------------------------------------------------------
 
