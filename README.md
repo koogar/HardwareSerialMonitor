@@ -19,8 +19,11 @@ Create Task
 
 General Tab:
 Name: Whatever you like
+
 Tick: Run only when user is logged on
+
 Tick: Run with highest privileges
+
 Select: Configure for: Windows 10
 
 Triggers Tab> New:
