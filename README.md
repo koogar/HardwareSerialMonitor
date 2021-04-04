@@ -38,9 +38,9 @@ Actions Tab> New:
 
     Action, Select: "Start a program"
 
-Program/script: > Browse the HardwareSerialMonitor.exe
+    Program/script: > Browse the HardwareSerialMonitor.exe
 
-    Conditions Tab:
+Conditions Tab:
 
     [optional] Disable "Start the task only if the computer is on AC power"
 
