@@ -13,11 +13,11 @@ Locate Hardware Monitor executable> Right-Click> Properties> Compatibility> Run 
 Enable auto-start on system log-in
 ----------------------------------
 
-Start Menu > Search for "Task Scheduler"
+    Start Menu > Search for "Task Scheduler"
 
 Create Task
 
-General Tab:
+    General Tab:
 Name: Whatever you like
 
 Tick: Run only when user is logged on
@@ -27,26 +27,26 @@ Tick: Run with highest privileges
 Select: Configure for: Windows 10
 
 
-Triggers Tab> New:
+    Triggers Tab> New:
 
 Begin the task, Select: At log on
 
 Tick: Specific User:
 
 
-Actions Tab> New:
+    Actions Tab> New:
 
 Action, Select: "Start a program"
 
 Program/script: > Browse the HardwareSerialMonitor.exe
 
 
-Conditions Tab:
+    Conditions Tab:
 
 [optional] Disable "Start the task only if the computer is on AC power"
 
 
-Settings Tab:
+    Settings Tab:
 
 Enable, Tick : "Allow task to be run on demand"
 
