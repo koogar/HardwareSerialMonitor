@@ -16,26 +16,27 @@ Enable auto-start on system log-in
 Start Menu > Search for "Task Scheduler"
 
 Create Task
-    General Tab:
-            Name: Whatever you like
-            Tick: Run only when user is logged on
-            Tick: Run with highest privileges
-            Select: Configure for: Windows 10
 
-    Triggers Tab> New:
-            Begin the task, Select: At log on
-            Tick: Specific User:
+General Tab:
+Name: Whatever you like
+Tick: Run only when user is logged on
+Tick: Run with highest privileges
+Select: Configure for: Windows 10
 
-     Actions Tab> New:
-            Action, Select: "Start a program"
-            Program/script: > Browse the HardwareSerialMonitor.exe
+Triggers Tab> New:
+Begin the task, Select: At log on
+Tick: Specific User:
 
-     Conditions Tab:
-            [optional] Disable "Start the task only if the computer is on AC power"
+Actions Tab> New:
+Action, Select: "Start a program"
+Program/script: > Browse the HardwareSerialMonitor.exe
 
-     Settings Tab:
-            Enable, Tick : "Allow task to be run on demand"
-            Disable, Tick: "Stop the task if it runs longer than"
+Conditions Tab:
+[optional] Disable "Start the task only if the computer is on AC power"
+
+Settings Tab:
+Enable, Tick : "Allow task to be run on demand"
+Disable, Tick: "Stop the task if it runs longer than"
 
 ---------------------------------------------------------------------------------------------------------
 
