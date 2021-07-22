@@ -5,10 +5,15 @@
   
   http://tallmanlabs.com  & http://runawaybrainz.blogspot.com/
   
+ 
+  ![]( https://github.com/koogar/HardwareSerialMonitor/blob/main/images/HardwareSerialMonitor_App.jpg)
+  
 ---------------------------------------------------------------------------------------------------------
 Autostart HardwareSerialMonitor.exe
 -----------------------------------
 Locate Hardware Monitor executable> Right-Click> Properties> Compatibility> Run this program as Admin [X]
+
+![](https://github.com/koogar/HardwareSerialMonitor/blob/main/images/you-need-to-be-admin-you-can-do-it-300x300.jpg)
 
 Enable auto-start on system log-in
 ----------------------------------
