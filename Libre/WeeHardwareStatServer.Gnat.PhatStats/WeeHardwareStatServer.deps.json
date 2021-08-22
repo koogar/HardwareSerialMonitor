@@ -8,9 +8,10 @@
     ".NETCoreApp,Version=v5.0": {
       "WeeHardwareStatServer/1.0.0": {
         "dependencies": {
-          "LibreHardwareMonitorLib": "0.8.7",
+          "LibreHardwareMonitorLib": "0.8.8",
           "Microsoft.Extensions.Hosting": "5.0.0",
-          "Microsoft.Extensions.Hosting.WindowsServices": "5.0.1"
+          "Microsoft.Extensions.Hosting.WindowsServices": "5.0.1",
+          "Microsoft.Win32.Registry": "5.0.0"
         },
         "runtime": {
           "WeeHardwareStatServer.dll": {}
@@ -24,17 +25,19 @@
           }
         }
       },
-      "LibreHardwareMonitorLib/0.8.7": {
+      "LibreHardwareMonitorLib/0.8.8": {
         "dependencies": {
           "HidSharp": "2.1.0",
           "Microsoft.Win32.Registry": "5.0.0",
+          "NvAPIWrapper.Net": "0.8.1.101",
+          "System.IO.FileSystem.AccessControl": "5.0.0",
           "System.IO.Ports": "5.0.0",
           "System.Management": "5.0.0"
         },
         "runtime": {
           "lib/net5.0/LibreHardwareMonitorLib.dll": {
-            "assemblyVersion": "0.8.7.0",
-            "fileVersion": "0.8.7.0"
+            "assemblyVersion": "0.8.8.0",
+            "fileVersion": "0.8.8.0"
           }
         }
       },
@@ -389,6 +392,14 @@
           "System.Security.Principal.Windows": "5.0.0"
         }
       },
+      "NvAPIWrapper.Net/0.8.1.101": {
+        "runtime": {
+          "lib/netstandard2.0/NvAPIWrapper.dll": {
+            "assemblyVersion": "0.8.1.100",
+            "fileVersion": "0.8.1.100"
+          }
+        }
+      },
       "runtime.linux-arm.runtime.native.System.IO.Ports/5.0.0-rtm.20519.4": {
         "runtimeTargets": {
           "runtimes/linux-arm/native/libSystem.IO.Ports.Native.so": {
@@ -460,6 +471,12 @@
             "assemblyVersion": "5.0.0.0",
             "fileVersion": "5.0.20.51904"
           }
+        }
+      },
+      "System.IO.FileSystem.AccessControl/5.0.0": {
+        "dependencies": {
+          "System.Security.AccessControl": "5.0.0",
+          "System.Security.Principal.Windows": "5.0.0"
         }
       },
       "System.IO.Ports/5.0.0": {
@@ -556,12 +573,12 @@
       "path": "hidsharp/2.1.0",
       "hashPath": "hidsharp.2.1.0.nupkg.sha512"
     },
-    "LibreHardwareMonitorLib/0.8.7": {
+    "LibreHardwareMonitorLib/0.8.8": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-10LeYyHoQA3Vr6R1kpDd4BkJpdWohar7qHtTaCDiIq2n7LlXTtebjfnjXMsSASuBphOpexQ9xj17SgjdSfPjaQ==",
-      "path": "librehardwaremonitorlib/0.8.7",
-      "hashPath": "librehardwaremonitorlib.0.8.7.nupkg.sha512"
+      "sha512": "sha512-KBPf4HJkGtubkFG8PL7Hr0E736CW4KLk6vqiC4aXY6quEd861/3tBo9h8VVvrL/q2r58xVq5zaoylIjqB5bqHA==",
+      "path": "librehardwaremonitorlib/0.8.8",
+      "hashPath": "librehardwaremonitorlib.0.8.8.nupkg.sha512"
     },
     "Microsoft.Extensions.Configuration/5.0.0": {
       "type": "package",
@@ -759,6 +776,13 @@
       "path": "microsoft.win32.registry/5.0.0",
       "hashPath": "microsoft.win32.registry.5.0.0.nupkg.sha512"
     },
+    "NvAPIWrapper.Net/0.8.1.101": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qX+5EQ32tCTqBkX/9BNfx7w4HPi18s3XhMubjbxSjPhYQ6pXWL+HGnaZEmGvFlOxvsQN+/6eV3x5bRo1CDY/mQ==",
+      "path": "nvapiwrapper.net/0.8.1.101",
+      "hashPath": "nvapiwrapper.net.0.8.1.101.nupkg.sha512"
+    },
     "runtime.linux-arm.runtime.native.System.IO.Ports/5.0.0-rtm.20519.4": {
       "type": "package",
       "serviceable": true,
@@ -807,6 +831,13 @@
       "sha512": "sha512-FHkCwUfsTs+/5tsK+c0egLfacUgbhvcwi3wUFWSEEArSXao343mYqcpOVVFMlcCkdNtjU4YwAWaKYwal6f02og==",
       "path": "system.diagnostics.eventlog/5.0.0",
       "hashPath": "system.diagnostics.eventlog.5.0.0.nupkg.sha512"
+    },
+    "System.IO.FileSystem.AccessControl/5.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-SxHB3nuNrpptVk+vZ/F+7OHEpoHUIKKMl02bUmYHQr1r+glbZQxs7pRtsf4ENO29TVm2TH3AEeep2fJcy92oYw==",
+      "path": "system.io.filesystem.accesscontrol/5.0.0",
+      "hashPath": "system.io.filesystem.accesscontrol.5.0.0.nupkg.sha512"
     },
     "System.IO.Ports/5.0.0": {
       "type": "package",
