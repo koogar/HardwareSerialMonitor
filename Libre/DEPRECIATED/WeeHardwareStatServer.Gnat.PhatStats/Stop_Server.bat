@@ -1,0 +1,1 @@
+sc stop "Wee Hardware Stat Server"
