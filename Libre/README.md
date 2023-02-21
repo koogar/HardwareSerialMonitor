@@ -44,8 +44,7 @@ Please note that this project is licensed under GPLv2 so even though it is compa
 
 
 
-
-Installation
+#  Installation
 
 Please make sure you have the latest .net 5 runtime installed https://dotnet.microsoft.com/download/dotnet/5.0
 
@@ -56,7 +55,7 @@ Run WeeHardwareStatServer.exe as administrator.
 
 
 
-Or optionally Install as a service which will run silently at startup.
+# Or optionally Install as a service which will run silently at startup.
 
 
 This is a simple console application and has built in support to be run as a Windows Service as well which would be the easiest way to get it working.
