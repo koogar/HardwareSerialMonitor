@@ -1,0 +1,10 @@
+//------------MaD(Derer) Hide Form1 When ALT+TAB-----------------
+
+this.WindowState = FormWindowState.Minimized;  //start minimized
+this.ShowInTaskbar = false; // dont show icon on the taskbar
+this.FormBorderStyle = FormBorderStyle.FixedToolWindow;
+this.ControlBox = false;
+this.Opacity = 0;
+this.Hide(); //Hide
+
+//---------------------------------------------------------------
