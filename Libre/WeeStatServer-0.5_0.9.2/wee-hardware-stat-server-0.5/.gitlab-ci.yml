@@ -1,0 +1,12 @@
+image: "mcr.microsoft.com/dotnet/sdk:5.0"
+variables:
+  SOLUTION_NAME: WeeHardwareStatServer
+
+stages:
+  - build
+
+build:
+  script:
+    - 'dotnet publish -c Release -o WeeHardwareStatServer'
+  stage: build
+

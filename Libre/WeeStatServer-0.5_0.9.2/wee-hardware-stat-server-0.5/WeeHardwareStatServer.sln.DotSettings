@@ -1,0 +1,19 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeStyle/CodeCleanup/Profiles/=Add_0020Header/@EntryIndexedValue">&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;Profile name="Add Header"&gt;&lt;CSCodeStyleAttributes ArrangeTypeAccessModifier="False" ArrangeTypeMemberAccessModifier="False" SortModifiers="False" RemoveRedundantParentheses="False" AddMissingParentheses="False" ArrangeBraces="False" ArrangeAttributes="False" ArrangeArgumentsStyle="False" ArrangeCodeBodyStyle="False" ArrangeVarStyle="False" ArrangeTrailingCommas="False" ArrangeObjectCreation="False" ArrangeDefaultValue="False" /&gt;&lt;CSOptimizeUsings&gt;&lt;OptimizeUsings&gt;False&lt;/OptimizeUsings&gt;&lt;EmbraceInRegion&gt;False&lt;/EmbraceInRegion&gt;&lt;RegionName&gt;&lt;/RegionName&gt;&lt;/CSOptimizeUsings&gt;&lt;XAMLCollapseEmptyTags&gt;False&lt;/XAMLCollapseEmptyTags&gt;&lt;CSUpdateFileHeader&gt;True&lt;/CSUpdateFileHeader&gt;&lt;/Profile&gt;</s:String>
+	<s:String x:Key="/Default/CodeStyle/FileHeader/FileHeaderText/@EntryValue">Wee Hardware Stat Server&#xD;
+Copyright (C) $CURRENT_YEAR$ Vinod Mishra and contributors&#xD;
+&#xD;
+This program is free software; you can redistribute it and/or&#xD;
+modify it under the terms of the GNU General Public License&#xD;
+as published by the Free Software Foundation; either version 2&#xD;
+of the License, or (at your option) any later version.&#xD;
+&#xD;
+This program is distributed in the hope that it will be useful,&#xD;
+but WITHOUT ANY WARRANTY; without even the implied warranty of&#xD;
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the&#xD;
+GNU General Public License for more details.&#xD;
+&#xD;
+You should have received a copy of the GNU General Public License&#xD;
+along with this program; If not, see &lt;http://www.gnu.org/licenses/&gt;.</s:String>
+	<s:String x:Key="/Default/CodeStyle/FileHeader/FileHeaderRegionName/@EntryValue">License</s:String>
+	<s:Boolean x:Key="/Default/UserDictionary/Words/=NVIDIA/@EntryIndexedValue">True</s:Boolean></wpf:ResourceDictionary>
