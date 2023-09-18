@@ -1,0 +1,13 @@
+
+
+
+
+
+Important Note: 
+
+After Installation got to the install directory and change the "properties" 
+of the HardwareSerialMonitor.exe in "Compatiability" to 
+
+"Run this program as administrator" 
+
+before launch!!!

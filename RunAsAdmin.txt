@@ -1,0 +1,17 @@
+
+
+  
+  HardwareSerialMonitor PC Serial Client 
+  for GNAT-STATS/PHAT-STATS PC Performance Monitor
+
+  Rupert Hirst & Colin Conway © 2016 to 2023  
+
+
+	Important Note: 
+
+	After Installation got to the install directory and change the "properties" 
+	of the HardwareSerialMonitor.exe in "Compatiability" to 
+
+	"Run this program as administrator" 
+
+	before launch!!!

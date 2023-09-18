@@ -1,1 +1,0 @@
-start  WeeHardwareStatServer SerialPortSettings:Port=COM7 /s
