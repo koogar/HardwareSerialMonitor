@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\GitHub\\HardwareSerialMonitor\\OHM\\HardwareSerialMonitor_v1.4.4_9600_OHM.0.9.6.1.PR_NET4.8_SRC\\HardwareSerialMonitor\\HardwareSerialMonitor.csproj": {}
+  },
+  "projects": {
+    "D:\\GitHub\\HardwareSerialMonitor\\OHM\\HardwareSerialMonitor_v1.4.4_9600_OHM.0.9.6.1.PR_NET4.8_SRC\\HardwareSerialMonitor\\HardwareSerialMonitor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\GitHub\\HardwareSerialMonitor\\OHM\\HardwareSerialMonitor_v1.4.4_9600_OHM.0.9.6.1.PR_NET4.8_SRC\\HardwareSerialMonitor\\HardwareSerialMonitor.csproj",
+        "projectName": "HardwareSerialMonitor",
+        "projectPath": "D:\\GitHub\\HardwareSerialMonitor\\OHM\\HardwareSerialMonitor_v1.4.4_9600_OHM.0.9.6.1.PR_NET4.8_SRC\\HardwareSerialMonitor\\HardwareSerialMonitor.csproj",
+        "packagesPath": "C:\\Users\\ruper\\.nuget\\packages\\",
+        "outputPath": "D:\\GitHub\\HardwareSerialMonitor\\OHM\\HardwareSerialMonitor_v1.4.4_9600_OHM.0.9.6.1.PR_NET4.8_SRC\\HardwareSerialMonitor\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ruper\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "System.Data.DataSetExtensions": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "System.Management": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "ini-parser": {
+              "target": "Package",
+              "version": "[2.5.2, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

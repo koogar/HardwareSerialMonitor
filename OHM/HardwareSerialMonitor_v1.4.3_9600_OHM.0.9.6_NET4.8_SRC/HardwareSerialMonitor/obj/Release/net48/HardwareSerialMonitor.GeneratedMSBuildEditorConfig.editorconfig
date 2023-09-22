@@ -1,9 +1,0 @@
-is_global = true
-build_property.ApplicationManifest = app.manifest
-build_property.StartupObject = HardwareSerialMonitor.Program
-build_property.ApplicationDefaultFont = 
-build_property.ApplicationHighDpiMode = 
-build_property.ApplicationUseCompatibleTextRendering = 
-build_property.ApplicationVisualStyles = 
-build_property.RootNamespace = HardwareSerialMonitor
-build_property.ProjectDir = D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.3_9600_OHM.0.9.6_NET4.8_SRC\HardwareSerialMonitor\
