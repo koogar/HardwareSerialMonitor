@@ -1,1 +1,0 @@
-sc start "Wee Hardware Stat Server"
