@@ -4,11 +4,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("GNAT STATS PC performance monitor")]
+[assembly: AssemblyTitle("HardwareSerialMonitor PC performance monitor")]
 [assembly: AssemblyDescription("Visual Studio Application written by Colin Conway and Rupert Hirst Visual Studio project source code kindly shared by psyrax see: https://github.com/psyrax/SerialMonitor Open Hardware Monitor Copyright © MPL v2 2010 - 2014 Michael Möller http://openhardwaremonitor.org/")]
 [assembly: AssemblyConfiguration("Visual Studio Application written by Colin Conway and Rupert Hirst. Visual Studio project source code, kindly shared by psyrax see: https://github.com/psyrax/SerialMonitor")]
 [assembly: AssemblyCompany("Tallman Labs")]
-[assembly: AssemblyProduct("GNAT STATS PC performance monitor")]
+[assembly: AssemblyProduct("HardwareSerialMonitor")]
 [assembly: AssemblyCopyright("Copyright ©  GPL v3 2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

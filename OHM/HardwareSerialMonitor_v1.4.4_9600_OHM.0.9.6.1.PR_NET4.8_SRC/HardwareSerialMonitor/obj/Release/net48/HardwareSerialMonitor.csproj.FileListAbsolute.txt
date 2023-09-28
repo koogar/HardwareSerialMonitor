@@ -115,12 +115,7 @@ D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.4_9600_OHM.0.9.6_
 D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.4_9600_OHM.0.9.6_NET4.8_SRC\HardwareSerialMonitor\obj\Release\net48\HardwareSerialMonitor.pdb
 D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.4_9600_OHM.0.9.6.1.PR_NET4.8_SRC\HardwareSerialMonitor\bin\Release\net48\HardwareSerialMonitor.ico
 D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.4_9600_OHM.0.9.6.1.PR_NET4.8_SRC\HardwareSerialMonitor\bin\Release\net48\LICENSE.txt
-D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.4_9600_OHM.0.9.6.1.PR_NET4.8_SRC\HardwareSerialMonitor\bin\Release\net48\Run on Startup\HardwareSerialMonitor.vbs
-D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.4_9600_OHM.0.9.6.1.PR_NET4.8_SRC\HardwareSerialMonitor\bin\Release\net48\Run on Startup\RunOnStartupWindows.txt
-D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.4_9600_OHM.0.9.6.1.PR_NET4.8_SRC\HardwareSerialMonitor\bin\Release\net48\Run on Startup\autostart.md
-D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.4_9600_OHM.0.9.6.1.PR_NET4.8_SRC\HardwareSerialMonitor\bin\Release\net48\Run on Startup\HardwareSerialMonitorAdmin.bat
-D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.4_9600_OHM.0.9.6.1.PR_NET4.8_SRC\HardwareSerialMonitor\bin\Release\net48\RunAsAdmin.jpg
-D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.4_9600_OHM.0.9.6.1.PR_NET4.8_SRC\HardwareSerialMonitor\bin\Release\net48\RunAsAdmin.txt
+D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.4_9600_OHM.0.9.6.1.PR_NET4.8_SRC\HardwareSerialMonitor\bin\Release\net48\HardwareSerialMonitor.vbs
 D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.4_9600_OHM.0.9.6.1.PR_NET4.8_SRC\HardwareSerialMonitor\bin\Release\net48\urls\GitHub - koogar-Gnat-Stats.url
 D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.4_9600_OHM.0.9.6.1.PR_NET4.8_SRC\HardwareSerialMonitor\bin\Release\net48\urls\GitHub - koogar-HardwareSerialMonitor.url
 D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.4_9600_OHM.0.9.6.1.PR_NET4.8_SRC\HardwareSerialMonitor\bin\Release\net48\urls\GitHub - koogar-Phat-Stats.url
@@ -142,3 +137,4 @@ D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.4_9600_OHM.0.9.6.
 D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.4_9600_OHM.0.9.6.1.PR_NET4.8_SRC\HardwareSerialMonitor\obj\Release\net48\HardwareSerialMonitor.csproj.CopyComplete
 D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.4_9600_OHM.0.9.6.1.PR_NET4.8_SRC\HardwareSerialMonitor\obj\Release\net48\HardwareSerialMonitor.exe
 D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.4_9600_OHM.0.9.6.1.PR_NET4.8_SRC\HardwareSerialMonitor\obj\Release\net48\HardwareSerialMonitor.pdb
+D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.4_9600_OHM.0.9.6.1.PR_NET4.8_SRC\HardwareSerialMonitor\bin\Release\net48\Simple_Autorun_Using_VBS.txt

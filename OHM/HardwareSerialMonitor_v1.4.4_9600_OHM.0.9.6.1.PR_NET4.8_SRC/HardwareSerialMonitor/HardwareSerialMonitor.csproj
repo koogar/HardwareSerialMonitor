@@ -32,7 +32,13 @@
   </PropertyGroup>
   <PropertyGroup>
     <StartupObject>HardwareSerialMonitor.Program</StartupObject>
+    <Authors>Colin Conway and Rupert Hirst</Authors>
   </PropertyGroup>
+  <ItemGroup>
+    <Compile Remove="Run on Startup\**" />
+    <EmbeddedResource Remove="Run on Startup\**" />
+    <None Remove="Run on Startup\**" />
+  </ItemGroup>
   <ItemGroup>
     <Reference Include="OpenHardwareMonitorLib, Version=0.7.1.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
@@ -41,16 +47,34 @@
     <Reference Include="System.Net" />
   </ItemGroup>
   <ItemGroup>
-    <None Update="Run on Startup\autostart.md">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
-    <None Update="Run on Startup\HardwareSerialMonitorAdmin.bat">
+    <None Update="HardwareSerialMonitor.vbs">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
     <None Update="RunAsAdmin.jpg">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
     <None Update="RunAsAdmin.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="RunOnStartup\autostart.md">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="RunOnStartup\PlaceInHardwareSerialMonitorFolder\HardwareSerialMonitor - Shortcut.lnk">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="RunOnStartup\PlaceInHardwareSerialMonitorFolder\HardwareSerialMonitor.vbs">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </None>
+    <None Update="RunOnStartup\PlaceInStartupFolder\HardwareSerialMonitor.vbs.lnk">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="RunOnStartup\PlaceInStartupFolder\Start-up - Shortcut.lnk">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="RunOnStartup\RunOnStartupWindows.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Simple_Autorun_Using_VBS.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
     <None Update="urls\GitHub - koogar-Gnat-Stats.url">
@@ -81,12 +105,6 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="LICENSE.txt">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
-    <Content Include="Run on Startup\HardwareSerialMonitor.vbs">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
-    <Content Include="Run on Startup\RunOnStartupWindows.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
   </ItemGroup>
