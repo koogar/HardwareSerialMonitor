@@ -29,8 +29,7 @@ To allow HardwareSerialMonitor to run on Windows startup...
 
     If you changed/Moved the defualt install directory you will need to edit the "HardwareSerialMonitor.vbs" 
     in notepad etc, to reflect those changes
-
-
+--------------------------------------------------------------------------------------------------------- 
 
 
 Alternatively
