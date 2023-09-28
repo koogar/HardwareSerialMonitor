@@ -1,5 +1,5 @@
 
-https://github.com/koogar/HardwareSerialMonitor/blob/main/Libre/koogar-Wee-Hardware-Stat-Server.url
+https://github.com/koogar/HardwareSerialMonitor/blob/main/Libre/koogar-Wee-Hardware-Stat-Server
 
 # Wee Hardware Stat Server (Gnat-Stats & Phat-Stats Compatible)
 Copyright (C) 2021  Vinod Mishra
