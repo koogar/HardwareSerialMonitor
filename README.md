@@ -31,7 +31,9 @@ To allow HardwareSerialMonitor to run on Windows startup...
     in notepad etc, to reflect those changes
 
 
-    Alternatively
+
+
+Alternatively
 
 ---------------------------------------------------------------------------------------------------------
 Autostart HardwareSerialMonitor.exe using Windows Task Sheduler
