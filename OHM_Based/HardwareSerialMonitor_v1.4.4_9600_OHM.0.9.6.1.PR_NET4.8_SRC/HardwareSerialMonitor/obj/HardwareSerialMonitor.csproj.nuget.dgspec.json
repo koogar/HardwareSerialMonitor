@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitHub\\HardwareSerialMonitor\\OHM\\HardwareSerialMonitor_v1.4.4_9600_OHM.0.9.6.1.PR_NET4.8_SRC\\HardwareSerialMonitor\\HardwareSerialMonitor.csproj": {}
+    "D:\\GitHub\\HardwareSerialMonitor\\Github_Released\\HardwareSerialMonitor\\OHM_Based\\HardwareSerialMonitor_v1.4.4_9600_OHM.0.9.6.1.PR_NET4.8_SRC\\HardwareSerialMonitor\\HardwareSerialMonitor.csproj": {}
   },
   "projects": {
-    "D:\\GitHub\\HardwareSerialMonitor\\OHM\\HardwareSerialMonitor_v1.4.4_9600_OHM.0.9.6.1.PR_NET4.8_SRC\\HardwareSerialMonitor\\HardwareSerialMonitor.csproj": {
+    "D:\\GitHub\\HardwareSerialMonitor\\Github_Released\\HardwareSerialMonitor\\OHM_Based\\HardwareSerialMonitor_v1.4.4_9600_OHM.0.9.6.1.PR_NET4.8_SRC\\HardwareSerialMonitor\\HardwareSerialMonitor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHub\\HardwareSerialMonitor\\OHM\\HardwareSerialMonitor_v1.4.4_9600_OHM.0.9.6.1.PR_NET4.8_SRC\\HardwareSerialMonitor\\HardwareSerialMonitor.csproj",
+        "projectUniqueName": "D:\\GitHub\\HardwareSerialMonitor\\Github_Released\\HardwareSerialMonitor\\OHM_Based\\HardwareSerialMonitor_v1.4.4_9600_OHM.0.9.6.1.PR_NET4.8_SRC\\HardwareSerialMonitor\\HardwareSerialMonitor.csproj",
         "projectName": "HardwareSerialMonitor",
-        "projectPath": "D:\\GitHub\\HardwareSerialMonitor\\OHM\\HardwareSerialMonitor_v1.4.4_9600_OHM.0.9.6.1.PR_NET4.8_SRC\\HardwareSerialMonitor\\HardwareSerialMonitor.csproj",
-        "packagesPath": "C:\\Users\\ruper\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHub\\HardwareSerialMonitor\\OHM\\HardwareSerialMonitor_v1.4.4_9600_OHM.0.9.6.1.PR_NET4.8_SRC\\HardwareSerialMonitor\\obj\\",
+        "projectPath": "D:\\GitHub\\HardwareSerialMonitor\\Github_Released\\HardwareSerialMonitor\\OHM_Based\\HardwareSerialMonitor_v1.4.4_9600_OHM.0.9.6.1.PR_NET4.8_SRC\\HardwareSerialMonitor\\HardwareSerialMonitor.csproj",
+        "packagesPath": "C:\\Users\\koogar\\.nuget\\packages\\",
+        "outputPath": "D:\\GitHub\\HardwareSerialMonitor\\Github_Released\\HardwareSerialMonitor\\OHM_Based\\HardwareSerialMonitor_v1.4.4_9600_OHM.0.9.6.1.PR_NET4.8_SRC\\HardwareSerialMonitor\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ruper\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\koogar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -38,7 +38,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net48": {
@@ -57,11 +63,11 @@
               "version": "[2.5.2, )"
             }
           },
-          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203\\RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {
-        "win7-x86": {
+        "win-x86": {
           "#import": []
         }
       }
