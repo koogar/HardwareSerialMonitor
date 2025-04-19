@@ -1,0 +1,44 @@
+Based off Wee Hardware Stat Server 0.5 by Vinod Mishra for use with TallmanLabs PhatStats/Gnatstats 
+as an alternative for HardWareSerialMonitor which uses OpenHardwareMonitor DLL as opposed to LibreHardWareMonitor DLL
+
+
+
+
+Visual Studio update steps
+--------------------------
+update Nuget in Visual Studio (Dependancies/Packages) to LibreHardwareMonitor 0.9.2
+
+
+Compile Wee Hardware Stat Server for dotnet 5 or 6
+
+Move "ref" (for install service) folder from "obj" folder to the root of the compiled "Wee Hardware Stat Server"  folder
+
+
+Change "CustomOutput": true," and "EnableHWiNFO": false, in the appsettings.json  also change comports settings 
+to desired com port at the bottom of the file
+
+run exe as Admin!!!!
+ 
+
+
+References
+----------
+
+https://tallmanlabs.com
+
+https://github.com/koogar/HardwareSerialMonitor
+
+https://github.com/koogar/Phat-Stats
+https://github.com/koogar/Gnat-Stats
+
+https://gitlab.com/vinodmishra/wee-hardware-stat-server
+
+https://github.com/LibreHardwareMonitor/LibreHardwareMonitor
+
+Libre Nightly Builds
+https://nightly.link/LibreHardwareMonitor/LibreHardwareMonitor/workflows/master/master/LibreHardwareMonitor-net472.zip
+
+DotNet Downloads (Required)
+---------------------------
+https://dotnet.microsoft.com/en-us/download/dotnet/5.0
+https://dotnet.microsoft.com/en-us/download/dotnet/6.0

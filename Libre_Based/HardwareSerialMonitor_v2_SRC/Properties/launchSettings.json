@@ -1,0 +1,11 @@
+{
+    "profiles": {
+        "HardwareSerialMonitor_v2": {
+            "commandName": "Project",
+            "environmentVariables": {
+                "DOTNET_ENVIRONMENT": "Development"
+            },
+            "dotnetRunMessages": "true"
+        }
+    }
+}
