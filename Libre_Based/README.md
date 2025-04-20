@@ -37,20 +37,33 @@ Following fields are supported for custom format
 
 #  Installation
 
-Please make sure you have the latest .net 9 runtime installed https://dotnet.microsoft.com/download/dotnet/5.0
+Please make sure you have the latest .net 9 runtime installed https://dotnet.microsoft.com/download/dotnet/9.0
 
 Change the COM port number to match your Arduino in appsettings.json (open with notepad)
 Note: your Arduino COM port can change if you plug it in a different USB port so you may have to update the appsettings.json in the future
 
-Run HardwareSerialMonitor_v2.exe as administrator.
+Always run HardwareSerialMonitor_v2.exe as administrator by changing the file properties!!!
 
 
 
-# Or optionally Install as a service which will run silently at startup.
+To allow HardwareSerialMonitor_v2 to run on Windows startup…
+
+1) the install location must be C:\Program Files (x86)\HardwareSerialMonitor_v2
+
+2) Goto the Windows "Startup" folder here "%AppData%\Microsoft\Windows\Start Menu\Programs\Startup"
 
 
-This is a simple console application and has built in support to be run as a Windows Service as well which would be the easiest way to get it working.
+3) Place the .vbs file from the AutoRunOnWindowsStartup folder in the HardwareSerialMonitor_v2 directory, eg. "HardwareSerialMonitor_v2.vbs" (command window)  or "HardwareSerialMonitor_v2Silent.vbs" (Silent operation, no command window) 
+in the windows startup folder
 
-Please change settings to fit your use case in appsetttings.json
+
+
+
+Next time Windows runs, HardwareSerialMonitor_v2 will autostart on the last know USB port
+
+Note: 
+
+If you changed/Moved the default installation directory you will need to edit the "HardwareSerialMonitor_v2.vbs" or "HardwareSerialMonitor_v2Silent.vbs" in notepad etc, to reflect those changes
+
 
 
