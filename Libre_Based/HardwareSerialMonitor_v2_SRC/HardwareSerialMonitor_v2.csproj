@@ -17,6 +17,12 @@
     <None Update="ALT_Stop_Server.bat">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
+    <None Update="AutoRunOnWindowsStartup\HardwareSerialMonitor_v2.vbs">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="AutoRunOnWindowsStartup\HardwareSerialMonitor_v2Silent.vbs">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Update="AutoRunOnWindowsStartup\PlaceInHardwareSerialMonitor_v2Folder\HardwareSerialMonitor_v2 - Shortcut.lnk">
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </None>
@@ -27,6 +33,9 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </None>
     <None Update="AutoRunOnWindowsStartup\Simple_Autorun_Using_VBS.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="AutoRunOnWindowsStartup\Start-up Folder - Shortcut.lnk">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
     <None Update="DeleteService.bat">
@@ -108,10 +117,10 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
     <None Update="HardwareSerialMonitor_v2.vbs">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </None>
     <None Update="HardwareSerialMonitor_v2Silent.vbs">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </None>
   </ItemGroup>
 </Project>
