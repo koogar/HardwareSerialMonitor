@@ -1,4 +1,4 @@
-HardwareSerialMonitor2 is based on Wee Hardware Stat Server  Copyright (C) 2021  Vinod Mishra
+HardwareSerialMonitor_v2 is based on Wee Hardware Stat Server  Copyright (C) 2021  Vinod Mishra
 
 Modified for PhatStats/GnatStats by R.Hirst
 
@@ -11,11 +11,11 @@ Important Note:
 
 dotnet6 is required to run!!!
 
-https://dotnet.microsoft.com/en-us/download/dotnet/6.0
+https://dotnet.microsoft.com/en-us/download/dotnet/9.0
 
 
 After Installation got to the install directory and change the "properties" 
-of the WeeHardwareStatServer.exe in "Compatibility" to 
+of the HardwareSerialMonitor_v2.exe in "Compatibility" to 
 
 "Run this program as administrator" 
 
