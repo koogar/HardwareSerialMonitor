@@ -122,5 +122,23 @@
     <None Update="HardwareSerialMonitor_v2Silent.vbs">
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </None>
+    <None Update="urls\GitHub - koogar-Gnat-Stats.url">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="urls\GitHub - koogar-HardwareSerialMonitor.url">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="urls\GitHub - koogar-Phat-Stats.url">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="urls\TallmanLabs, Gnat-Stats SSD1306 OLED Display Hook up Guide.url">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="urls\TallmanLabs, Phat-Stats ILI9341 TFT Display Hook up Guide.url">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="urls\TallmanLabs.url">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
 </Project>

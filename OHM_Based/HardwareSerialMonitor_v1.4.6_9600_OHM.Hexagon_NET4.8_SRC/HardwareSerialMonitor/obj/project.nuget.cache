@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "bATGCkukXcA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\koogar\\Desktop\\HardwareSerialMonitor\\OHM\\HardwareSerialMonitor_v1.4.4_9600_OHM.Hexagon_NET4.8_SRC\\HardwareSerialMonitor\\HardwareSerialMonitor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\koogar\\.nuget\\packages\\ini-parser\\2.5.2\\ini-parser.2.5.2.nupkg.sha512",
+    "C:\\Users\\koogar\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\koogar\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512",
+    "C:\\Users\\koogar\\.nuget\\packages\\system.management\\7.0.2\\system.management.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

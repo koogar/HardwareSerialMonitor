@@ -1,0 +1,146 @@
+D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.3d\HardwareSerialMonitor\bin\Release\HardwareSerialMonitor.exe.config
+D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.3d\HardwareSerialMonitor\bin\Release\HardwareSerialMonitor.exe
+D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.3d\HardwareSerialMonitor\bin\Release\HardwareSerialMonitor.pdb
+D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.3d\HardwareSerialMonitor\bin\Release\INIFileParser.dll
+D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.3d\HardwareSerialMonitor\bin\Release\OpenHardwareMonitorLib.dll
+D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.3d\HardwareSerialMonitor\bin\Release\INIFileParser.xml
+D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.3d\HardwareSerialMonitor\obj\Release\HardwareSerialMonitor.csprojAssemblyReference.cache
+D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.3d\HardwareSerialMonitor\obj\Release\HardwareSerialMonitor.AboutBox1.resources
+D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.3d\HardwareSerialMonitor\obj\Release\HardwareSerialMonitor.Form1.resources
+D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.3d\HardwareSerialMonitor\obj\Release\HardwareSerialMonitor.Properties.Resources.resources
+D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.3d\HardwareSerialMonitor\obj\Release\HardwareSerialMonitor.csproj.GenerateResource.cache
+D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.3d\HardwareSerialMonitor\obj\Release\HardwareSerialMonitor.csproj.CoreCompileInputs.cache
+D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.3d\HardwareSerialMonitor\obj\Release\HardwareSerialMonitor.csproj.CopyComplete
+D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.3d\HardwareSerialMonitor\obj\Release\HardwareSerialMonitor.exe
+D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.3d\HardwareSerialMonitor\obj\Release\HardwareSerialMonitor.pdb
+D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4\HardwareSerialMonitor\bin\Release\HardwareSerialMonitor.exe.config
+D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4\HardwareSerialMonitor\bin\Release\HardwareSerialMonitor.exe
+D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4\HardwareSerialMonitor\bin\Release\HardwareSerialMonitor.pdb
+D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4\HardwareSerialMonitor\bin\Release\INIFileParser.dll
+D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4\HardwareSerialMonitor\bin\Release\OpenHardwareMonitorLib.dll
+D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4\HardwareSerialMonitor\bin\Release\INIFileParser.xml
+D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4\HardwareSerialMonitor\obj\Release\HardwareSerialMonitor.csprojAssemblyReference.cache
+D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4\HardwareSerialMonitor\obj\Release\HardwareSerialMonitor.AboutBox1.resources
+D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4\HardwareSerialMonitor\obj\Release\HardwareSerialMonitor.Form1.resources
+D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4\HardwareSerialMonitor\obj\Release\HardwareSerialMonitor.Properties.Resources.resources
+D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4\HardwareSerialMonitor\obj\Release\HardwareSerialMonitor.csproj.GenerateResource.cache
+D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4\HardwareSerialMonitor\obj\Release\HardwareSerialMonitor.csproj.CoreCompileInputs.cache
+D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4\HardwareSerialMonitor\obj\Release\HardwareSerialMonitor.csproj.CopyComplete
+D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4\HardwareSerialMonitor\obj\Release\HardwareSerialMonitor.exe
+D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4\HardwareSerialMonitor\obj\Release\HardwareSerialMonitor.pdb
+D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4_115200\HardwareSerialMonitor\bin\Release\HardwareSerialMonitor.exe
+D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4_115200\HardwareSerialMonitor\bin\Release\INIFileParser.dll
+D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4_115200\HardwareSerialMonitor\bin\Release\OpenHardwareMonitorLib.dll
+D:\Downloads\HardwareSerialMonitor-main\HardwareSerialMonitor-main\OHM\HardwareSerialMonitor_v1.4_115200\HardwareSerialMonitor\bin\Release\HardwareSerialMonitor.exe.config
+D:\Downloads\HardwareSerialMonitor-main\HardwareSerialMonitor-main\OHM\HardwareSerialMonitor_v1.4_115200\HardwareSerialMonitor\bin\Release\HardwareSerialMonitor.exe
+D:\Downloads\HardwareSerialMonitor-main\HardwareSerialMonitor-main\OHM\HardwareSerialMonitor_v1.4_115200\HardwareSerialMonitor\bin\Release\HardwareSerialMonitor.pdb
+D:\Downloads\HardwareSerialMonitor-main\HardwareSerialMonitor-main\OHM\HardwareSerialMonitor_v1.4_115200\HardwareSerialMonitor\bin\Release\INIFileParser.dll
+D:\Downloads\HardwareSerialMonitor-main\HardwareSerialMonitor-main\OHM\HardwareSerialMonitor_v1.4_115200\HardwareSerialMonitor\bin\Release\OpenHardwareMonitorLib.dll
+D:\Downloads\HardwareSerialMonitor-main\HardwareSerialMonitor-main\OHM\HardwareSerialMonitor_v1.4_115200\HardwareSerialMonitor\bin\Release\INIFileParser.xml
+D:\Downloads\HardwareSerialMonitor-main\HardwareSerialMonitor-main\OHM\HardwareSerialMonitor_v1.4_115200\HardwareSerialMonitor\obj\Release\HardwareSerialMonitor.csproj.AssemblyReference.cache
+D:\Downloads\HardwareSerialMonitor-main\HardwareSerialMonitor-main\OHM\HardwareSerialMonitor_v1.4_115200\HardwareSerialMonitor\obj\Release\HardwareSerialMonitor.csproj.SuggestedBindingRedirects.cache
+D:\Downloads\HardwareSerialMonitor-main\HardwareSerialMonitor-main\OHM\HardwareSerialMonitor_v1.4_115200\HardwareSerialMonitor\obj\Release\HardwareSerialMonitor.AboutBox1.resources
+D:\Downloads\HardwareSerialMonitor-main\HardwareSerialMonitor-main\OHM\HardwareSerialMonitor_v1.4_115200\HardwareSerialMonitor\obj\Release\HardwareSerialMonitor.Form1.resources
+D:\Downloads\HardwareSerialMonitor-main\HardwareSerialMonitor-main\OHM\HardwareSerialMonitor_v1.4_115200\HardwareSerialMonitor\obj\Release\HardwareSerialMonitor.Properties.Resources.resources
+D:\Downloads\HardwareSerialMonitor-main\HardwareSerialMonitor-main\OHM\HardwareSerialMonitor_v1.4_115200\HardwareSerialMonitor\obj\Release\HardwareSerialMonitor.csproj.GenerateResource.cache
+D:\Downloads\HardwareSerialMonitor-main\HardwareSerialMonitor-main\OHM\HardwareSerialMonitor_v1.4_115200\HardwareSerialMonitor\obj\Release\HardwareSerialMonitor.csproj.CoreCompileInputs.cache
+D:\Downloads\HardwareSerialMonitor-main\HardwareSerialMonitor-main\OHM\HardwareSerialMonitor_v1.4_115200\HardwareSerialMonitor\obj\Release\HardwareSerialMonitor.csproj.CopyComplete
+D:\Downloads\HardwareSerialMonitor-main\HardwareSerialMonitor-main\OHM\HardwareSerialMonitor_v1.4_115200\HardwareSerialMonitor\obj\Release\HardwareSerialMonitor.exe
+D:\Downloads\HardwareSerialMonitor-main\HardwareSerialMonitor-main\OHM\HardwareSerialMonitor_v1.4_115200\HardwareSerialMonitor\obj\Release\HardwareSerialMonitor.pdb
+D:\Downloads\HardwareSerialMonitor-main\HardwareSerialMonitor-main\OHM\HardwareSerialMonitor_v1.4.2_115200.dotnet4.8\HardwareSerialMonitor\bin\Release\HardwareSerialMonitor.exe.config
+D:\Downloads\HardwareSerialMonitor-main\HardwareSerialMonitor-main\OHM\HardwareSerialMonitor_v1.4.2_115200.dotnet4.8\HardwareSerialMonitor\bin\Release\HardwareSerialMonitor.exe
+D:\Downloads\HardwareSerialMonitor-main\HardwareSerialMonitor-main\OHM\HardwareSerialMonitor_v1.4.2_115200.dotnet4.8\HardwareSerialMonitor\bin\Release\HardwareSerialMonitor.pdb
+D:\Downloads\HardwareSerialMonitor-main\HardwareSerialMonitor-main\OHM\HardwareSerialMonitor_v1.4.2_115200.dotnet4.8\HardwareSerialMonitor\bin\Release\INIFileParser.dll
+D:\Downloads\HardwareSerialMonitor-main\HardwareSerialMonitor-main\OHM\HardwareSerialMonitor_v1.4.2_115200.dotnet4.8\HardwareSerialMonitor\bin\Release\OpenHardwareMonitorLib.dll
+D:\Downloads\HardwareSerialMonitor-main\HardwareSerialMonitor-main\OHM\HardwareSerialMonitor_v1.4.2_115200.dotnet4.8\HardwareSerialMonitor\bin\Release\INIFileParser.xml
+D:\Downloads\HardwareSerialMonitor-main\HardwareSerialMonitor-main\OHM\HardwareSerialMonitor_v1.4.2_115200.dotnet4.8\HardwareSerialMonitor\obj\Release\HardwareSerialMonitor.csproj.AssemblyReference.cache
+D:\Downloads\HardwareSerialMonitor-main\HardwareSerialMonitor-main\OHM\HardwareSerialMonitor_v1.4.2_115200.dotnet4.8\HardwareSerialMonitor\obj\Release\HardwareSerialMonitor.csproj.SuggestedBindingRedirects.cache
+D:\Downloads\HardwareSerialMonitor-main\HardwareSerialMonitor-main\OHM\HardwareSerialMonitor_v1.4.2_115200.dotnet4.8\HardwareSerialMonitor\obj\Release\HardwareSerialMonitor.AboutBox1.resources
+D:\Downloads\HardwareSerialMonitor-main\HardwareSerialMonitor-main\OHM\HardwareSerialMonitor_v1.4.2_115200.dotnet4.8\HardwareSerialMonitor\obj\Release\HardwareSerialMonitor.Form1.resources
+D:\Downloads\HardwareSerialMonitor-main\HardwareSerialMonitor-main\OHM\HardwareSerialMonitor_v1.4.2_115200.dotnet4.8\HardwareSerialMonitor\obj\Release\HardwareSerialMonitor.Properties.Resources.resources
+D:\Downloads\HardwareSerialMonitor-main\HardwareSerialMonitor-main\OHM\HardwareSerialMonitor_v1.4.2_115200.dotnet4.8\HardwareSerialMonitor\obj\Release\HardwareSerialMonitor.csproj.GenerateResource.cache
+D:\Downloads\HardwareSerialMonitor-main\HardwareSerialMonitor-main\OHM\HardwareSerialMonitor_v1.4.2_115200.dotnet4.8\HardwareSerialMonitor\obj\Release\HardwareSerialMonitor.csproj.CoreCompileInputs.cache
+D:\Downloads\HardwareSerialMonitor-main\HardwareSerialMonitor-main\OHM\HardwareSerialMonitor_v1.4.2_115200.dotnet4.8\HardwareSerialMonitor\obj\Release\HardwareSerialMonitor.csproj.CopyComplete
+D:\Downloads\HardwareSerialMonitor-main\HardwareSerialMonitor-main\OHM\HardwareSerialMonitor_v1.4.2_115200.dotnet4.8\HardwareSerialMonitor\obj\Release\HardwareSerialMonitor.exe
+D:\Downloads\HardwareSerialMonitor-main\HardwareSerialMonitor-main\OHM\HardwareSerialMonitor_v1.4.2_115200.dotnet4.8\HardwareSerialMonitor\obj\Release\HardwareSerialMonitor.pdb
+D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.2_9600.NET4.8\HardwareSerialMonitor\bin\Release\LICENSE.txt
+D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.2_9600.NET4.8\HardwareSerialMonitor\bin\Release\RUN AS ADMIN.jpg
+D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.2_9600.NET4.8\HardwareSerialMonitor\bin\Release\Run as admin.txt
+D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.2_9600.NET4.8\HardwareSerialMonitor\bin\Release\Run on Startup\HardwareSerialMonitor.vbs
+D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.2_9600.NET4.8\HardwareSerialMonitor\bin\Release\Run on Startup\RunOnStartupWindows.txt
+D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.2_9600.NET4.8\HardwareSerialMonitor\bin\Release\Run on Startup\autostart.md
+D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.2_9600.NET4.8\HardwareSerialMonitor\bin\Release\Run on Startup\HardwareSerialMonitorAdmin.bat
+D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.2_9600.NET4.8\HardwareSerialMonitor\bin\Release\urls\GitHub - koogar-Gnat-Stats.url
+D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.2_9600.NET4.8\HardwareSerialMonitor\bin\Release\urls\GitHub - koogar-HardwareSerialMonitor.url
+D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.2_9600.NET4.8\HardwareSerialMonitor\bin\Release\urls\GitHub - koogar-Phat-Stats.url
+D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.2_9600.NET4.8\HardwareSerialMonitor\bin\Release\urls\TallmanLabs, Gnat-Stats SSD1306 OLED Display Hook up Guide.url
+D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.2_9600.NET4.8\HardwareSerialMonitor\bin\Release\urls\TallmanLabs, Phat-Stats ILI9341 TFT Display Hook up Guide.url
+D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.2_9600.NET4.8\HardwareSerialMonitor\bin\Release\HardwareSerialMonitor.exe.config
+D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.2_9600.NET4.8\HardwareSerialMonitor\bin\Release\HardwareSerialMonitor.exe
+D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.2_9600.NET4.8\HardwareSerialMonitor\bin\Release\HardwareSerialMonitor.pdb
+D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.2_9600.NET4.8\HardwareSerialMonitor\bin\Release\INIFileParser.dll
+D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.2_9600.NET4.8\HardwareSerialMonitor\bin\Release\OpenHardwareMonitorLib.dll
+D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.2_9600.NET4.8\HardwareSerialMonitor\bin\Release\INIFileParser.xml
+D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.2_9600.NET4.8\HardwareSerialMonitor\obj\Release\HardwareSerialMonitor.csproj.AssemblyReference.cache
+D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.2_9600.NET4.8\HardwareSerialMonitor\obj\Release\HardwareSerialMonitor.AboutBox1.resources
+D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.2_9600.NET4.8\HardwareSerialMonitor\obj\Release\HardwareSerialMonitor.Form1.resources
+D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.2_9600.NET4.8\HardwareSerialMonitor\obj\Release\HardwareSerialMonitor.Properties.Resources.resources
+D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.2_9600.NET4.8\HardwareSerialMonitor\obj\Release\HardwareSerialMonitor.csproj.GenerateResource.cache
+D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.2_9600.NET4.8\HardwareSerialMonitor\obj\Release\HardwareSerialMonitor.csproj.CoreCompileInputs.cache
+D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.2_9600.NET4.8\HardwareSerialMonitor\obj\Release\HardwareSerialMonitor.csproj.CopyComplete
+D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.2_9600.NET4.8\HardwareSerialMonitor\obj\Release\HardwareSerialMonitor.exe
+D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.2_9600.NET4.8\HardwareSerialMonitor\obj\Release\HardwareSerialMonitor.pdb
+D:\GitHub\HardwareSerialMonitor\Github_Released\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.3_9600.NET4.8\HardwareSerialMonitor\bin\Release\LICENSE.txt
+D:\GitHub\HardwareSerialMonitor\Github_Released\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.3_9600.NET4.8\HardwareSerialMonitor\bin\Release\RUN AS ADMIN.jpg
+D:\GitHub\HardwareSerialMonitor\Github_Released\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.3_9600.NET4.8\HardwareSerialMonitor\bin\Release\Run as admin.txt
+D:\GitHub\HardwareSerialMonitor\Github_Released\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.3_9600.NET4.8\HardwareSerialMonitor\bin\Release\Run on Startup\HardwareSerialMonitor.vbs
+D:\GitHub\HardwareSerialMonitor\Github_Released\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.3_9600.NET4.8\HardwareSerialMonitor\bin\Release\Run on Startup\RunOnStartupWindows.txt
+D:\GitHub\HardwareSerialMonitor\Github_Released\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.3_9600.NET4.8\HardwareSerialMonitor\bin\Release\Run on Startup\autostart.md
+D:\GitHub\HardwareSerialMonitor\Github_Released\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.3_9600.NET4.8\HardwareSerialMonitor\bin\Release\Run on Startup\HardwareSerialMonitorAdmin.bat
+D:\GitHub\HardwareSerialMonitor\Github_Released\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.3_9600.NET4.8\HardwareSerialMonitor\bin\Release\urls\GitHub - koogar-Gnat-Stats.url
+D:\GitHub\HardwareSerialMonitor\Github_Released\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.3_9600.NET4.8\HardwareSerialMonitor\bin\Release\urls\GitHub - koogar-HardwareSerialMonitor.url
+D:\GitHub\HardwareSerialMonitor\Github_Released\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.3_9600.NET4.8\HardwareSerialMonitor\bin\Release\urls\GitHub - koogar-Phat-Stats.url
+D:\GitHub\HardwareSerialMonitor\Github_Released\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.3_9600.NET4.8\HardwareSerialMonitor\bin\Release\urls\TallmanLabs, Gnat-Stats SSD1306 OLED Display Hook up Guide.url
+D:\GitHub\HardwareSerialMonitor\Github_Released\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.3_9600.NET4.8\HardwareSerialMonitor\bin\Release\urls\TallmanLabs, Phat-Stats ILI9341 TFT Display Hook up Guide.url
+D:\GitHub\HardwareSerialMonitor\Github_Released\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.3_9600.NET4.8\HardwareSerialMonitor\bin\Release\HardwareSerialMonitor.exe.config
+D:\GitHub\HardwareSerialMonitor\Github_Released\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.3_9600.NET4.8\HardwareSerialMonitor\bin\Release\HardwareSerialMonitor.exe
+D:\GitHub\HardwareSerialMonitor\Github_Released\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.3_9600.NET4.8\HardwareSerialMonitor\bin\Release\HardwareSerialMonitor.pdb
+D:\GitHub\HardwareSerialMonitor\Github_Released\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.3_9600.NET4.8\HardwareSerialMonitor\bin\Release\INIFileParser.dll
+D:\GitHub\HardwareSerialMonitor\Github_Released\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.3_9600.NET4.8\HardwareSerialMonitor\bin\Release\OpenHardwareMonitorLib.dll
+D:\GitHub\HardwareSerialMonitor\Github_Released\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.3_9600.NET4.8\HardwareSerialMonitor\bin\Release\INIFileParser.xml
+D:\GitHub\HardwareSerialMonitor\Github_Released\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.3_9600.NET4.8\HardwareSerialMonitor\obj\Release\HardwareSerialMonitor.csproj.AssemblyReference.cache
+D:\GitHub\HardwareSerialMonitor\Github_Released\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.3_9600.NET4.8\HardwareSerialMonitor\obj\Release\HardwareSerialMonitor.AboutBox1.resources
+D:\GitHub\HardwareSerialMonitor\Github_Released\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.3_9600.NET4.8\HardwareSerialMonitor\obj\Release\HardwareSerialMonitor.Form1.resources
+D:\GitHub\HardwareSerialMonitor\Github_Released\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.3_9600.NET4.8\HardwareSerialMonitor\obj\Release\HardwareSerialMonitor.Properties.Resources.resources
+D:\GitHub\HardwareSerialMonitor\Github_Released\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.3_9600.NET4.8\HardwareSerialMonitor\obj\Release\HardwareSerialMonitor.csproj.GenerateResource.cache
+D:\GitHub\HardwareSerialMonitor\Github_Released\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.3_9600.NET4.8\HardwareSerialMonitor\obj\Release\HardwareSerialMonitor.csproj.CoreCompileInputs.cache
+D:\GitHub\HardwareSerialMonitor\Github_Released\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.3_9600.NET4.8\HardwareSerialMonitor\obj\Release\HardwareSerialMonitor.csproj.CopyComplete
+D:\GitHub\HardwareSerialMonitor\Github_Released\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.3_9600.NET4.8\HardwareSerialMonitor\obj\Release\HardwareSerialMonitor.exe
+D:\GitHub\HardwareSerialMonitor\Github_Released\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.3_9600.NET4.8\HardwareSerialMonitor\obj\Release\HardwareSerialMonitor.pdb
+D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.3_9600.NET4.8_SRC\HardwareSerialMonitor\bin\Release\LICENSE.txt
+D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.3_9600.NET4.8_SRC\HardwareSerialMonitor\bin\Release\RUN AS ADMIN.jpg
+D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.3_9600.NET4.8_SRC\HardwareSerialMonitor\bin\Release\Run as admin.txt
+D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.3_9600.NET4.8_SRC\HardwareSerialMonitor\bin\Release\Run on Startup\HardwareSerialMonitor.vbs
+D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.3_9600.NET4.8_SRC\HardwareSerialMonitor\bin\Release\Run on Startup\RunOnStartupWindows.txt
+D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.3_9600.NET4.8_SRC\HardwareSerialMonitor\bin\Release\Run on Startup\autostart.md
+D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.3_9600.NET4.8_SRC\HardwareSerialMonitor\bin\Release\Run on Startup\HardwareSerialMonitorAdmin.bat
+D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.3_9600.NET4.8_SRC\HardwareSerialMonitor\bin\Release\urls\GitHub - koogar-Gnat-Stats.url
+D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.3_9600.NET4.8_SRC\HardwareSerialMonitor\bin\Release\urls\GitHub - koogar-HardwareSerialMonitor.url
+D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.3_9600.NET4.8_SRC\HardwareSerialMonitor\bin\Release\urls\GitHub - koogar-Phat-Stats.url
+D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.3_9600.NET4.8_SRC\HardwareSerialMonitor\bin\Release\urls\TallmanLabs, Gnat-Stats SSD1306 OLED Display Hook up Guide.url
+D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.3_9600.NET4.8_SRC\HardwareSerialMonitor\bin\Release\urls\TallmanLabs, Phat-Stats ILI9341 TFT Display Hook up Guide.url
+D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.3_9600.NET4.8_SRC\HardwareSerialMonitor\bin\Release\HardwareSerialMonitor.exe.config
+D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.3_9600.NET4.8_SRC\HardwareSerialMonitor\bin\Release\HardwareSerialMonitor.exe
+D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.3_9600.NET4.8_SRC\HardwareSerialMonitor\bin\Release\HardwareSerialMonitor.pdb
+D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.3_9600.NET4.8_SRC\HardwareSerialMonitor\bin\Release\INIFileParser.dll
+D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.3_9600.NET4.8_SRC\HardwareSerialMonitor\bin\Release\OpenHardwareMonitorLib.dll
+D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.3_9600.NET4.8_SRC\HardwareSerialMonitor\bin\Release\INIFileParser.xml
+D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.3_9600.NET4.8_SRC\HardwareSerialMonitor\obj\Release\HardwareSerialMonitor.csproj.AssemblyReference.cache
+D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.3_9600.NET4.8_SRC\HardwareSerialMonitor\obj\Release\HardwareSerialMonitor.AboutBox1.resources
+D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.3_9600.NET4.8_SRC\HardwareSerialMonitor\obj\Release\HardwareSerialMonitor.Form1.resources
+D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.3_9600.NET4.8_SRC\HardwareSerialMonitor\obj\Release\HardwareSerialMonitor.Properties.Resources.resources
+D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.3_9600.NET4.8_SRC\HardwareSerialMonitor\obj\Release\HardwareSerialMonitor.csproj.GenerateResource.cache
+D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.3_9600.NET4.8_SRC\HardwareSerialMonitor\obj\Release\HardwareSerialMonitor.csproj.CoreCompileInputs.cache
+D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.3_9600.NET4.8_SRC\HardwareSerialMonitor\obj\Release\HardwareSerialMonitor.csproj.CopyComplete
+D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.3_9600.NET4.8_SRC\HardwareSerialMonitor\obj\Release\HardwareSerialMonitor.exe
+D:\GitHub\HardwareSerialMonitor\OHM\HardwareSerialMonitor_v1.4.3_9600.NET4.8_SRC\HardwareSerialMonitor\obj\Release\HardwareSerialMonitor.pdb
