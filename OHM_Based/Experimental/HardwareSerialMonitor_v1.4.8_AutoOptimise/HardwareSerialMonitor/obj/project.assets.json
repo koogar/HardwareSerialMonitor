@@ -222,11 +222,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHub\\HardwareSerialMonitor\\OHM\\Experimental\\HardwareSerialMonitor_v1.4.7_StartupOption.autoopto\\HardwareSerialMonitor\\HardwareSerialMonitor.csproj",
+      "projectUniqueName": "D:\\GitHub\\HardwareSerialMonitor\\Github_Released\\HardwareSerialMonitor\\OHM_Based\\Experimental\\HardwareSerialMonitor_v1.4.8_AutoOptimise\\HardwareSerialMonitor\\HardwareSerialMonitor.csproj",
       "projectName": "HardwareSerialMonitor",
-      "projectPath": "D:\\GitHub\\HardwareSerialMonitor\\OHM\\Experimental\\HardwareSerialMonitor_v1.4.7_StartupOption.autoopto\\HardwareSerialMonitor\\HardwareSerialMonitor.csproj",
+      "projectPath": "D:\\GitHub\\HardwareSerialMonitor\\Github_Released\\HardwareSerialMonitor\\OHM_Based\\Experimental\\HardwareSerialMonitor_v1.4.8_AutoOptimise\\HardwareSerialMonitor\\HardwareSerialMonitor.csproj",
       "packagesPath": "C:\\Users\\koogar\\.nuget\\packages\\",
-      "outputPath": "D:\\GitHub\\HardwareSerialMonitor\\OHM\\Experimental\\HardwareSerialMonitor_v1.4.7_StartupOption.autoopto\\HardwareSerialMonitor\\obj\\",
+      "outputPath": "D:\\GitHub\\HardwareSerialMonitor\\Github_Released\\HardwareSerialMonitor\\OHM_Based\\Experimental\\HardwareSerialMonitor_v1.4.8_AutoOptimise\\HardwareSerialMonitor\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

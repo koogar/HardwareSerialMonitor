@@ -91,7 +91,7 @@
             this.labelProductName.Name = "labelProductName";
             this.labelProductName.Size = new System.Drawing.Size(434, 21);
             this.labelProductName.TabIndex = 19;
-            this.labelProductName.Text = "Gnat-Stats Hardware Serial Monitor V1.4.7  (9600 Baud) .NET 4.8";
+            this.labelProductName.Text = "Gnat-Stats Hardware Serial Monitor V1.4.8  (9600 Baud) .NET 4.8";
             this.labelProductName.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.labelProductName.Click += new System.EventHandler(this.labelProductName_Click);
             // 
@@ -104,7 +104,7 @@
             this.labelVersion.Name = "labelVersion";
             this.labelVersion.Size = new System.Drawing.Size(434, 21);
             this.labelVersion.TabIndex = 0;
-            this.labelVersion.Text = ".NET 4.8, Auto flag .exe to \"Run as Admin\", Tray Startup";
+            this.labelVersion.Text = ".NET 4.8, Auto flag .exe to \"Run as Admin\", Tray Startup,Automatic Fix";
             this.labelVersion.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // labelCopyright

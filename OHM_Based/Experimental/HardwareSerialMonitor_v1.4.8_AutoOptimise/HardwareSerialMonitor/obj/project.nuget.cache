@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HonWX806lCI=",
+  "dgSpecHash": "IP4h+Fwybd8=",
   "success": true,
-  "projectFilePath": "D:\\GitHub\\HardwareSerialMonitor\\OHM\\Experimental\\HardwareSerialMonitor_v1.4.7_StartupOption.autoopto\\HardwareSerialMonitor\\HardwareSerialMonitor.csproj",
+  "projectFilePath": "D:\\GitHub\\HardwareSerialMonitor\\Github_Released\\HardwareSerialMonitor\\OHM_Based\\Experimental\\HardwareSerialMonitor_v1.4.8_AutoOptimise\\HardwareSerialMonitor\\HardwareSerialMonitor.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\koogar\\.nuget\\packages\\ini-parser\\2.5.2\\ini-parser.2.5.2.nupkg.sha512",
     "C:\\Users\\koogar\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
