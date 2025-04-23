@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub\\HardwareSerialMonitor\\OHM\\Experimental\\HardwareSerialMonitor_v1.4.7_StartupOption.autoopto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6719B22B-C5EC-498F-9D1A-328F39FFF467}|HardwareSerialMonitor\\HardwareSerialMonitor.csproj|d:\\github\\hardwareserialmonitor\\ohm\\experimental\\hardwareserialmonitor_v1.4.7_startupoption.autoopto\\hardwareserialmonitor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6719B22B-C5EC-498F-9D1A-328F39FFF467}|HardwareSerialMonitor\\HardwareSerialMonitor.csproj|solutionrelative:hardwareserialmonitor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6719B22B-C5EC-498F-9D1A-328F39FFF467}|HardwareSerialMonitor\\HardwareSerialMonitor.csproj|D:\\GitHub\\HardwareSerialMonitor\\OHM\\Experimental\\HardwareSerialMonitor_v1.4.7_StartupOption.autoopto\\hardwareserialmonitor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6719B22B-C5EC-498F-9D1A-328F39FFF467}|HardwareSerialMonitor\\HardwareSerialMonitor.csproj|solutionrelative:hardwareserialmonitor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6719B22B-C5EC-498F-9D1A-328F39FFF467}|HardwareSerialMonitor\\HardwareSerialMonitor.csproj|d:\\github\\hardwareserialmonitor\\ohm\\experimental\\hardwareserialmonitor_v1.4.7_startupoption.autoopto\\hardwareserialmonitor\\aboutbox1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6719B22B-C5EC-498F-9D1A-328F39FFF467}|HardwareSerialMonitor\\HardwareSerialMonitor.csproj|solutionrelative:hardwareserialmonitor\\aboutbox1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6719B22B-C5EC-498F-9D1A-328F39FFF467}|HardwareSerialMonitor\\HardwareSerialMonitor.csproj|d:\\github\\hardwareserialmonitor\\ohm\\experimental\\hardwareserialmonitor_v1.4.7_startupoption.autoopto\\hardwareserialmonitor\\openhardwaremonitorlib.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       0 !     \u0022     ",
+      "RelativeMoniker": "D:0:0:{6719B22B-C5EC-498F-9D1A-328F39FFF467}|HardwareSerialMonitor\\HardwareSerialMonitor.csproj|solutionrelative:hardwareserialmonitor\\openhardwaremonitorlib.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       0 !     \u0022     "
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6719B22B-C5EC-498F-9D1A-328F39FFF467}|HardwareSerialMonitor\\HardwareSerialMonitor.csproj|d:\\github\\hardwareserialmonitor\\ohm\\experimental\\hardwareserialmonitor_v1.4.7_startupoption.autoopto\\hardwareserialmonitor\\openhardwaremonitorlib.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{6719B22B-C5EC-498F-9D1A-328F39FFF467}|HardwareSerialMonitor\\HardwareSerialMonitor.csproj|solutionrelative:hardwareserialmonitor\\openhardwaremonitorlib.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6719B22B-C5EC-498F-9D1A-328F39FFF467}|HardwareSerialMonitor\\HardwareSerialMonitor.csproj|d:\\github\\hardwareserialmonitor\\ohm\\experimental\\hardwareserialmonitor_v1.4.7_startupoption.autoopto\\hardwareserialmonitor\\simple_autorun_using_vbs.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6719B22B-C5EC-498F-9D1A-328F39FFF467}|HardwareSerialMonitor\\HardwareSerialMonitor.csproj|solutionrelative:hardwareserialmonitor\\simple_autorun_using_vbs.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\GitHub\\HardwareSerialMonitor\\OHM\\Experimental\\HardwareSerialMonitor_v1.4.7_StartupOption.autoopto\\HardwareSerialMonitor\\Form1.cs",
+              "RelativeDocumentMoniker": "HardwareSerialMonitor\\Form1.cs",
+              "ToolTip": "D:\\GitHub\\HardwareSerialMonitor\\OHM\\Experimental\\HardwareSerialMonitor_v1.4.7_StartupOption.autoopto\\HardwareSerialMonitor\\Form1.cs",
+              "RelativeToolTip": "HardwareSerialMonitor\\Form1.cs",
+              "ViewState": "AgIAAOcDAAAAAAAAAAAcwAsEAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T10:04:30.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\GitHub\\HardwareSerialMonitor\\OHM\\Experimental\\HardwareSerialMonitor_v1.4.7_StartupOption.autoopto\\HardwareSerialMonitor\\Form1.cs",
+              "RelativeDocumentMoniker": "HardwareSerialMonitor\\Form1.cs",
+              "ToolTip": "D:\\GitHub\\HardwareSerialMonitor\\OHM\\Experimental\\HardwareSerialMonitor_v1.4.7_StartupOption.autoopto\\HardwareSerialMonitor\\Form1.cs [Design]",
+              "RelativeToolTip": "HardwareSerialMonitor\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T10:04:28.095Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AboutBox1.cs [Design]",
+              "DocumentMoniker": "D:\\GitHub\\HardwareSerialMonitor\\OHM\\Experimental\\HardwareSerialMonitor_v1.4.7_StartupOption.autoopto\\HardwareSerialMonitor\\AboutBox1.cs",
+              "RelativeDocumentMoniker": "HardwareSerialMonitor\\AboutBox1.cs",
+              "ToolTip": "D:\\GitHub\\HardwareSerialMonitor\\OHM\\Experimental\\HardwareSerialMonitor_v1.4.7_StartupOption.autoopto\\HardwareSerialMonitor\\AboutBox1.cs [Design]",
+              "RelativeToolTip": "HardwareSerialMonitor\\AboutBox1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T13:35:58.08Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OpenHardwareMonitorLib.dll - 1 [Neutral] - Version",
+              "DocumentMoniker": "D:\\GitHub\\HardwareSerialMonitor\\OHM\\Experimental\\HardwareSerialMonitor_v1.4.7_StartupOption.autoopto\\HardwareSerialMonitor\\OpenHardwareMonitorLib.dll",
+              "RelativeDocumentMoniker": "HardwareSerialMonitor\\OpenHardwareMonitorLib.dll",
+              "ToolTip": "D:\\GitHub\\HardwareSerialMonitor\\OHM\\Experimental\\HardwareSerialMonitor_v1.4.7_StartupOption.autoopto\\HardwareSerialMonitor\\OpenHardwareMonitorLib.dll - 1 [Neutral] - Version",
+              "RelativeToolTip": "HardwareSerialMonitor\\OpenHardwareMonitorLib.dll - 1 [Neutral] - Version",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
+              "WhenOpened": "2025-04-09T10:24:10.252Z",
+              "EditorCaption": " - 1 [Neutral] - Version"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OpenHardwareMonitorLib.dll",
+              "DocumentMoniker": "D:\\GitHub\\HardwareSerialMonitor\\OHM\\Experimental\\HardwareSerialMonitor_v1.4.7_StartupOption.autoopto\\HardwareSerialMonitor\\OpenHardwareMonitorLib.dll",
+              "RelativeDocumentMoniker": "HardwareSerialMonitor\\OpenHardwareMonitorLib.dll",
+              "ToolTip": "D:\\GitHub\\HardwareSerialMonitor\\OHM\\Experimental\\HardwareSerialMonitor_v1.4.7_StartupOption.autoopto\\HardwareSerialMonitor\\OpenHardwareMonitorLib.dll",
+              "RelativeToolTip": "HardwareSerialMonitor\\OpenHardwareMonitorLib.dll",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
+              "WhenOpened": "2025-04-09T10:24:06.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Simple_Autorun_Using_VBS.txt",
+              "DocumentMoniker": "D:\\GitHub\\HardwareSerialMonitor\\OHM\\Experimental\\HardwareSerialMonitor_v1.4.7_StartupOption.autoopto\\HardwareSerialMonitor\\Simple_Autorun_Using_VBS.txt",
+              "RelativeDocumentMoniker": "HardwareSerialMonitor\\Simple_Autorun_Using_VBS.txt",
+              "ToolTip": "D:\\GitHub\\HardwareSerialMonitor\\OHM\\Experimental\\HardwareSerialMonitor_v1.4.7_StartupOption.autoopto\\HardwareSerialMonitor\\Simple_Autorun_Using_VBS.txt",
+              "RelativeToolTip": "HardwareSerialMonitor\\Simple_Autorun_Using_VBS.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-09T10:24:00.442Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

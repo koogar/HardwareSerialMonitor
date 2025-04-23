@@ -1,0 +1,14 @@
+is_global = true
+build_property.ApplicationManifest = app.manifest
+build_property.StartupObject = HardwareSerialMonitor.Program
+build_property.ApplicationDefaultFont = 
+build_property.ApplicationHighDpiMode = 
+build_property.ApplicationUseCompatibleTextRendering = 
+build_property.ApplicationVisualStyles = 
+build_property.RootNamespace = HardwareSerialMonitor
+build_property.ProjectDir = D:\GitHub\HardwareSerialMonitor\OHM\Experimental\HardwareSerialMonitor_v1.4.7_StartupOption\HardwareSerialMonitor\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 

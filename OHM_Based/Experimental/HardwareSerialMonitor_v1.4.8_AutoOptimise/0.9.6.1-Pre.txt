@@ -1,0 +1,23 @@
+
+Hardware Serial Monitor 
+by Rupert Hirst, Colin Conway - Copyright (C)2016 - 2023
+
+uVolume, Gnat-Stats, Phat-Stats & Tacho-Stats 
+by Rupert Hirst - Copyright (C)2016 - 2023
+
+https://tallmanlabs.com
+------------------------------------------------------------
+OpenHardwareMonitorLib.dll 0.9.6.1-Pre-Release (Hexagon)
+
+https://github.com/hexagon-oss/openhardwaremonitor/
+
+- added experimental Intel Jasper Lake Support
+- added experimental Intel Rocket Lake Support
+- added experimental Intel AlderLake support
+- added Alde Lake Mobile support
+- added Intel RaptorLake support
+- added Intel MeteorLake support
+- added Intel ArrowLake support
+- added Intel PantherLake support
+
+https://github.com/hexagon-oss/openhardwaremonitor/commit/5f4acfd74acfa5b15223e550cbdf2e4037ed2cd5
