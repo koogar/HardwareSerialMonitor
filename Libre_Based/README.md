@@ -1,6 +1,8 @@
 
 
-# HardwareSerialMonitor_v2 based on Wee Hardware Stat Server (Gnat-Stats & Phat-Stats Compatible)
+# HardwareSerialMonitor_v2 (LibreHardwareMonitor Based) 
+
+HardwareSerialMonitor_v2 Is Based on Wee Hardware Stat Server (Gnat-Stats & Phat-Stats Compatible)
 Copyright (C) 2021  Vinod Mishra
 -----------------------------------
 A tiny server that uses LibreHardwareMonitor to send data to a serial port (for use with Arduino). Planning to add more features soon.
