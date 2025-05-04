@@ -1,5 +1,5 @@
 # HardwareSerialMonitor
-Gnat Stats PC Harware Performance Monitor Windows Client
+Gnat Stats PC Hardware Performance Monitor Windows Client
 
 NOTE: HardwareSerialMonitor needs to be "run as Admin" to get all the stats
   
