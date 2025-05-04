@@ -222,11 +222,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\koogar\\Desktop\\HardwareSerialMonitor\\OHM\\HardwareSerialMonitor_v1.4.4_9600_OHM.Hexagon_NET4.8_SRC\\HardwareSerialMonitor\\HardwareSerialMonitor.csproj",
+      "projectUniqueName": "D:\\GitHub\\HardwareSerialMonitor\\Github_Released\\HardwareSerialMonitor\\OHM_Based\\HardwareSerialMonitor_v1.4.6_9600_OHM.Hexagon_NET4.8_SRC\\HardwareSerialMonitor\\HardwareSerialMonitor.csproj",
       "projectName": "HardwareSerialMonitor",
-      "projectPath": "C:\\Users\\koogar\\Desktop\\HardwareSerialMonitor\\OHM\\HardwareSerialMonitor_v1.4.4_9600_OHM.Hexagon_NET4.8_SRC\\HardwareSerialMonitor\\HardwareSerialMonitor.csproj",
+      "projectPath": "D:\\GitHub\\HardwareSerialMonitor\\Github_Released\\HardwareSerialMonitor\\OHM_Based\\HardwareSerialMonitor_v1.4.6_9600_OHM.Hexagon_NET4.8_SRC\\HardwareSerialMonitor\\HardwareSerialMonitor.csproj",
       "packagesPath": "C:\\Users\\koogar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\koogar\\Desktop\\HardwareSerialMonitor\\OHM\\HardwareSerialMonitor_v1.4.4_9600_OHM.Hexagon_NET4.8_SRC\\HardwareSerialMonitor\\obj\\",
+      "outputPath": "D:\\GitHub\\HardwareSerialMonitor\\Github_Released\\HardwareSerialMonitor\\OHM_Based\\HardwareSerialMonitor_v1.4.6_9600_OHM.Hexagon_NET4.8_SRC\\HardwareSerialMonitor\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
