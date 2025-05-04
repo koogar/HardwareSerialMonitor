@@ -1,4 +1,4 @@
-# HardwareSerialMonitor
+# # HardwareSerialMonitor_OHM  (OpenHardwareMonitor Based)
 Gnat Stats PC Hardware Performance Monitor Windows Client
 
 NOTE: HardwareSerialMonitor needs to be "run as Admin" to get all the stats
