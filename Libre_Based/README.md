@@ -1,6 +1,7 @@
 
 
-# HardwareSerialMonitor_v2 (LibreHardwareMonitor Based) 
+# HardwareSerialMonitor_v2 (LibreHardwareMonitor Based)
+https://github.com/koogar/HardwareSerialMonitor_v2
 
 HardwareSerialMonitor_v2 Is Based on Wee Hardware Stat Server (Gnat-Stats & Phat-Stats Compatible)
 Copyright (C) 2021  Vinod Mishra
