@@ -1,13 +1,16 @@
-To allow HardwareSerialMonitor to run on Windows startup...
-
-1) Goto the Windows "Start-up" folder here "%AppData%\Microsoft\Windows\Start Menu\Programs\Startup" (you can paste this into Windows File Explorer)
-
-2) Right click in the "Start-up" folder and create a "New" shortcut
+To allow HardwareSerialMonitor to run on Windows startup…
 
 
-3) Then browse for the "HardwareSerialMonitor.vbs" in the "C:\Program Files (x86)\HardwareSerialMonitor" folder.
 
-Name the shortcut to "HardwareSerialMonitor-Shortcut"
+1) Go to the Windows "Start-up" folder here "%AppData%\Microsoft\Windows\Start Menu\Programs\Startup" (you can paste this into Windows File Explorer)
+
+
+2) Right click in the "Start-up" folder and create a "New" shortcut. Name the shortcut  "HardwareSerialMonitor-Shortcut"
+
+
+3) Then select browse for the "HardwareSerialMonitor.vbs" in the "C:\Program Files (x86)\HardwareSerialMonitor" folder. and create the shortcut
+
+
 
 
 
