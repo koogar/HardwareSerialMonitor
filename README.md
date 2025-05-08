@@ -25,6 +25,8 @@ https://github.com/koogar/Phat-Stats - https://github.com/koogar/Gnat-Stats
 * **.NET Framework**: Requires .NET Framework 4.8.
 
 * **Microcontroller Integration**: Designed to work seamlessly with Arduino-based projects like Gnat-Stats and Phat-Stats, which display system metrics on OLED or TFT screens.
+ 
+* **Bluetooth Virtual Com**: Virtual Com ports are not stored and have to be re-selected each time HardwareSerialMonitor runs.
 
 
 ### Installation and Setup
