@@ -1,8 +1,12 @@
+
 ## [HardwareSerialMonitor GitHub Repository](https://www.google.com/maps/search/HardwareSerialMonitor+GitHub+Repository)
+
 
 [HardwareSerialMonitor](https://github.com/koogar/HardwareSerialMonitor) is a Windows-based application developed by Rupert Hirst and Colin Conway (Tallman Labs) designed to transmit PC hardware performance statistics over a serial connection. This tool is particularly useful for displaying real-time system metrics on external microcontroller-driven displays such as those used in Gnat-Stats, Phat-Stats, or Tacho-Stats projects. 
 
 https://github.com/koogar/Phat-Stats - https://github.com/koogar/Gnat-Stats
+
+![]( https://github.com/koogar/HardwareSerialMonitor/blob/main/images/HardwareSerialMonitor_App.jpg)
 
 ### Key Features
 
@@ -39,7 +43,7 @@ For more detailed information, source code, and downloads, visit the [HardwareSe
   http://tallmanlabs.com  & http://runawaybrainz.blogspot.com/
   
  
-  ![]( https://github.com/koogar/HardwareSerialMonitor/blob/main/images/HardwareSerialMonitor_App.jpg)
+  
 
 
 
