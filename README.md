@@ -1,7 +1,40 @@
+## [HardwareSerialMonitor GitHub Repository](https://www.google.com/maps/search/HardwareSerialMonitor+GitHub+Repository)
+
+[HardwareSerialMonitor](https://github.com/koogar/HardwareSerialMonitor) is a Windows-based application developed by Rupert Hirst and Colin Conway (Tallman Labs) designed to transmit PC hardware performance statistics over a serial connection. This tool is particularly useful for displaying real-time system metrics on external microcontroller-driven displays such as those used in Gnat-Stats, Phat-Stats, or Tacho-Stats projects. 
+
+https://github.com/koogar/Phat-Stats - https://github.com/koogar/Gnat-Stats
+
+### Key Features
+
+* **Real-Time Hardware Monitoring**: Utilizes the OpenHardwareMonitorLib.dll to collect data on CPU, GPU, RAM, and other system components.
+
+* **Serial Communication**: Sends collected data over USB or Bluetooth serial ports, facilitating integration with microcontroller-based displays.
+
+* **Broad CPU Support**: Includes experimental support for various Intel architectures, including Jasper Lake, Rocket Lake, Alder Lake (desktop and mobile), Raptor Lake, Meteor Lake, Arrow Lake, and Panther Lake.
+
+* **Auto-Start Configuration**: Can be configured to launch automatically on Windows startup using a provided VBScript or through Windows Task Scheduler.
+
+### Compatibility
+
+* **Operating Systems**: Compatible with Windows 7, 10, and 11 (64-bit).
+
+* **.NET Framework**: Requires .NET Framework 4.8.
+
+* **Microcontroller Integration**: Designed to work seamlessly with Arduino-based projects like Gnat-Stats and Phat-Stats, which display system metrics on OLED or TFT screens.
+
+
+### Installation and Setup
+
+* **Installer**: Available as a Windows installer executable.([GitHub][5])
+
+* **Auto-Start Setup**: Instructions are provided for setting up the application to run at startup using either a VBScript shortcut in the Startup folder or by configuring a task in Windows Task Scheduler.
+
+For more detailed information, source code, and downloads, visit the [HardwareSerialMonitor GitHub repository](https://github.com/koogar/HardwareSerialMonitor).
+
+
 
   GnatStats / PhatStats PC Performance Monitor / HardwareSerialMonitor Windows Client  
-  
-  Rupert Hirst & Colin Conway © 2016-2021
+  Rupert Hirst & Colin Conway © 2016-2025
   
   http://tallmanlabs.com  & http://runawaybrainz.blogspot.com/
   
@@ -9,77 +42,95 @@
   ![]( https://github.com/koogar/HardwareSerialMonitor/blob/main/images/HardwareSerialMonitor_App.jpg)
 
 
----------------------------------------------------------------------------------------------------------
-Autostart HardwareSerialMonitor.exe using the HardwareSerialMonitor.VBS
----------------------------------------------------------------------------------------------------------
-To allow HardwareSerialMonitor to run on Windows startup...
 
-    1) Goto the Windows "Start-up" folder here "%AppData%\Microsoft\Windows\Start Menu\Programs\Startup"
----------------------------------------------------------------------------------------------------------
-    2) Right click in the "Start-up" folder and create a "New" shortcut
----------------------------------------------------------------------------------------------------------
+---
 
-    3) Then browse for the "HardwareSerialMonitor.vbs" in the "C:\Program Files (x86)\HardwareSerialMonitor" folder.
+✅ Run HardwareSerialMonitor as Administrator (always):
+Locate HardwareSerialMonitor.exe
 
-    Then name the shortcut to "HardwareSerialMonitor-Shortcut"
----------------------------------------------------------------------------------------------------------
-    Next time Windows runs, HardwareSerialMonitor will autostart on the last know USB port
+Right-click → Properties
 
-    Note: 
+Go to Compatibility tab
 
-    If you changed/Moved the default install directory you will need to edit the "HardwareSerialMonitor.vbs" 
-    in notepad etc, to reflect those changes
---------------------------------------------------------------------------------------------------------- 
+Check [✔] Run this program as administrator
 
+Click OK
 
-Alternatively
+---
 
----------------------------------------------------------------------------------------------------------
-Autostart HardwareSerialMonitor.exe using Windows Task Sheduler
----------------------------------------------------------------------------------------------------------
-Locate Hardware Monitor executable> Right-Click> Properties> Compatibility> Run this program as Admin [X]
+## 🖥️ **Auto-start HardwareSerialMonitor via VBS Script (Startup Folder Method):**
 
-![](https://github.com/koogar/HardwareSerialMonitor/blob/main/images/you-need-to-be-admin-you-can-do-it-300x300.jpg)
+1. Open **File Explorer** and navigate to:
 
-Enable auto-start on system log-in
-----------------------------------
+   ```
+   %AppData%\Microsoft\Windows\Start Menu\Programs\Startup
+   ```
 
-Start Menu > Search for "Task Scheduler"
+   *(You can paste this into the address bar and press Enter.)*
 
-    Create Task
+2. **Right-click** inside the **Startup** folder → select **New → Shortcut**
 
-General Tab:
+3. In the **location field**, browse to:
 
-    Name: Whatever you like
+   ```
+   C:\Program Files (x86)\HardwareSerialMonitor\HardwareSerialMonitor.vbs
+   ```
 
-    [X]: Run only when user is logged on
+   *(or adjust the path if you installed it elsewhere)*
 
-    [X]: Run with highest privileges
+4. Name the shortcut:
 
-    Select: Configure for: Windows 10
+   ```
+   HardwareSerialMonitor-Shortcut
+   ```
 
+✅ Done!
+→ Now, every time Windows starts, `HardwareSerialMonitor.vbs` will run, which in turn launches `HardwareSerialMonitor.exe` on the **last known USB port**.
 
-Triggers Tab> New:
+---
 
-    Begin the task, Select: At log on
+### ⚠️ **Note:**
 
-    [X]: Specific User:
+If you moved or installed the app in a different folder, you must **edit `HardwareSerialMonitor.vbs`** in Notepad (or another editor) to update the file path to match your installation directory.
 
-Actions Tab> New:
+---
 
-    Action, Select: "Start a program"
+Alternatively Auto-Start via Task Scheduler.
 
-    Program/script: > Browse the HardwareSerialMonitor.exe
+### 🚀 **Enable Auto-Start at System Login (via Task Scheduler):**
 
-Conditions Tab:
+1. Open **Start Menu** → Search for **Task Scheduler** → Open it
+2. Click **Create Task**
 
-    [optional] Disable "Start the task only if the computer is on AC power"
+#### **General Tab:**
 
+* **Name**: *(anything you like)*
+* Check **\[✔] Run only when user is logged on**
+* Check **\[✔] Run with highest privileges**
+* **Configure for**: Windows 10
 
-Settings Tab:
+#### **Triggers Tab:**
 
-    To Enable,  [X] : "Allow task to be run on demand"
-    
-    To Disable, [X] : "Stop the task if it runs longer than"
+* Click **New**
+* **Begin the task**: *At log on*
+* **\[✔] Specific user**: *(select your user account)*
 
----------------------------------------------------------------------------------------------------------
+#### **Actions Tab:**
+
+* Click **New**
+* **Action**: *Start a program*
+* **Program/script**: *Browse to `HardwareSerialMonitor.exe`*
+
+#### **Conditions Tab:**
+
+* *(Optional)* Uncheck **\[ ] Start the task only if the computer is on AC power**
+
+#### **Settings Tab:**
+
+* **\[✔] Allow task to be run on demand**
+* *(Optional)* **\[✔] Stop the task if it runs longer than...** *(set as needed)*
+
+---
+
+✅ Done! Now **HardwareSerialMonitor** will auto-run at login with administrator privileges.
+
