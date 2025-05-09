@@ -3,9 +3,9 @@ How to Run HardwareSerialMonitor on Windows Startup
 1. Open the Windows Startup Folder:
 
    - Press Win + R to open the Run dialog.
-   - Type (or copy-paste) the following path and press Enter:
+   - Type (or copy-paste) the following press Enter:
 
-     %AppData%\Microsoft\Windows\Start Menu\Programs\Startup
+    shell:startup
 
    This will open the Startup folder in File Explorer.
 
